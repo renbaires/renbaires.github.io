@@ -50,7 +50,9 @@ copyright:             >
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
-# legal:
+legal:
+  - title: Recursos usados
+    href: /creditos/
 #   - title:             Impress
 #     href:              /impress/
 #   - title:             Cookies Policy
@@ -177,7 +179,7 @@ hydejack:
 
   # When using Google Analytics, set to `true` to display a cookie notice banner.
   # When enabled, no user-related data will be stored until the user gives consent.
-  cookies_banner:      false
+  cookies_banner:      true
 
   # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
   advertise:           false
