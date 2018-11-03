@@ -11,6 +11,4 @@ order: 6
 [R-Ladies Buenos Aires](https://www.meetup.com/rladies-buenos-aires/)
 : Capítulo de Buenos Aires de R-Ladies, una comunidad que promueve la diversidad de género en la comunidad R. Existen muchos otros capítulos en Argentina. Si no sos de Buenos Aires y querés buscar el de tu ciudad, hacelo [acá](https://gqueiroz.shinyapps.io/rshinylady/).
 
-[ArgentinaR](https://argentinar.org/)
-: Comunidad enfocada en el uso del lenguaje R.
 
