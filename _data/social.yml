@@ -213,5 +213,3 @@ rconsortium:
 slack:
   name: Slack
   icon: icon-slack
-  prepend: "https://"
-  append: ".slack.com/"
