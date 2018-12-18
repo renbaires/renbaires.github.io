@@ -23,7 +23,7 @@ Después, [Diego Kozlowski](https://twitter.com/Diego_Koz) presentó R en Buenos
 Diego Kozlowski explicando qué es R en Buenos Aires y con qué se come. Foto gracias a [Natsu](https://twitter.com/NatsuSh/status/1069717368899858432).
 {:.figure}
 
-Finalmente, Paola Corrales y Elio Campitelli lideraron un taller de blogdown. Remando los inevitables problemas técnicos entre todos, les asistentes se llevaron el know-how para hacer su propio sitio web con R. 
+Finalmente, [Paola Corrales](https://twitter.com/paobcorrales) y [Elio Campitelli](https://twitter.com/d_olivaw) lideraron un taller de blogdown. Remando los inevitables problemas técnicos entre todos, les asistentes se llevaron el know-how para hacer su propio sitio web con R. 
 
 ![Paola Corrales contando cómo creó una página web personal porque estaba aburrida y quería aprender a hacerlo](/assets/img/taller-blogdown2.jpg)
 Paola Corrales contando cómo creó una página web personal porque estaba aburrida y quería aprender a hacerlo. 
