@@ -59,7 +59,7 @@ legal:
 #     href:              /cookies-policy/
 
 # Format of the permalinks
-permalink:             /:categories/:year-:month-:day-:title/
+permalink:             /:categories/:year/:month/:slug
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              5
