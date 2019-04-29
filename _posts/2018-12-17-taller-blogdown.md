@@ -36,4 +36,4 @@ Para quienes no hayan podido ir, el video de todo el encuentro está [disponible
 
 
 
-Gracias a los genios de [Medallia](www.medallia.com.ar/) por brindarnos el espacio y una picada increíble. 
+Gracias a los genios de [Medallia](http://www.medallia.com.ar/) por brindarnos el espacio y una picada increíble. 
