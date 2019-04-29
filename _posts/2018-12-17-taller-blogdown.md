@@ -5,7 +5,7 @@ description: >
     Nuestro primer encuentro fue también el último encuentro del año de R-Ladies Buenos Aires. Aprendimos a crear una página web desde R con blogdown!
 ---
 
-El martes 3 de diciembre tuvimos nuestro primer encuentro, que también fue el último encuentro de [R-Ladies Buenos Aires](https://twitter.com/rladiesba). Estamos muy contentos con la excelente convocatoria y gracias a todos por haber venido!
+El martes 3 de diciembre tuvimos nuestro primer encuentro, que también fue el último encuentro de [R-Ladies Buenos Aires](https://twitter.com/rladiesba). Estamos muy contentos con la excelente convocatoria y gracias a todes por haber venido!
 
 ![Sala llena en Medalia](/assets/img/taller-blogdown1.jpg)
 Sala llena en Medalia. Foto gracias a [Florencia](https://twitter.com/cantoflor_87/status/1069726696314675200)!
@@ -23,7 +23,7 @@ Después, [Diego Kozlowski](https://twitter.com/Diego_Koz) presentó R en Buenos
 Diego Kozlowski explicando qué es R en Buenos Aires y con qué se come. Foto gracias a [Natsu](https://twitter.com/NatsuSh/status/1069717368899858432).
 {:.figure}
 
-Finalmente, [Paola Corrales](https://twitter.com/paobcorrales) y [Elio Campitelli](https://twitter.com/d_olivaw) lideraron un taller de blogdown. Remando los inevitables problemas técnicos entre todos, les asistentes se llevaron el know-how para hacer su propio sitio web con R. 
+Finalmente, [Paola Corrales](https://twitter.com/paobcorrales) y [Elio Campitelli](https://twitter.com/d_olivaw) lideraron un taller de blogdown. Remando los inevitables problemas técnicos entre todes, les asistentes se llevaron el know-how para hacer su propio sitio web con R. 
 
 ![Paola Corrales contando cómo creó una página web personal porque estaba aburrida y quería aprender a hacerlo](/assets/img/taller-blogdown2.jpg)
 Paola Corrales contando cómo creó una página web personal porque estaba aburrida y quería aprender a hacerlo. 

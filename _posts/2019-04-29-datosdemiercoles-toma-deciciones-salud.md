@@ -5,13 +5,13 @@ description: >
     En el primer meetup de 2019 Julio Spairani presentó la iniciativa de #DatosDeMiércoles para practicar análisis y visualización de datos en comunidad y Natalie Soto contó su experiencia usando R para la evaluación económica de intervenciones en salud.
 ---
 
-Qué mejor que el mes de abril para abrir con el primer encuentro del año? Antes de salir a comprar las roscas de pascua, organizamos un meetup donde tuvimos el lujo de presentar una nueva iniciativa de la comundiad de R y una charla interesantísima sobre la experiencia de usar R en un ámbito lleno de excel-lovers. Gracias a todos por haber venido!
+Qué mejor que el mes de abril para abrir con el primer encuentro del año? Antes de salir a comprar las roscas de pascua, organizamos un meetup donde tuvimos el lujo de presentar una nueva iniciativa de la comundiad de R y una charla interesantísima sobre la experiencia de usar R en un ámbito lleno de excel-lovers. Gracias a todes por haber venido!
 
 ![Salón lleno en Medallia](/assets/img/ddm0.jpg)
 Salón lleno en Medallia. Foto gracias a [Guada](https://twitter.com/guadag12/status/1118280731434868737)
 {:.figure}
 
-La primer charla estuvo a cargo de [Julio Spairani](https://twitter.com/jspairani), quién presentó [#DatosDeMiércoles](https://twitter.com/hashtag/DatosDeMiercoles). Es la versión en español de #TidyTuesday y es un espacio para practicar análisis de datos entre todos.  
+La primer charla estuvo a cargo de [Julio Spairani](https://twitter.com/jspairani), quién presentó [#DatosDeMiércoles](https://twitter.com/hashtag/DatosDeMiercoles). Es la versión en español de #TidyTuesday y es un espacio para practicar análisis de datos entre todes.  
 
 ![Julio Spairani presenta #DatosDeMiércoles](/assets/img/ddm1.jpg)
 Julio Spairani presenta #DatosDeMiércoles. "Dejá de ser acumulador o amarrete y empezá a compartir"
