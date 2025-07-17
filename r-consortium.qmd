@@ -1,0 +1,11 @@
+---
+title: "R consortium"
+format: html
+editor: visual
+---
+
+
+![](image/r-consortium.png)
+
+R en Buenos Aires es posible en parte gracias a la generosa ayuda de [R Consortium](https://www.r-consortium.org/) quienes nos brindan apoyo económico a través de [su programa](https://r-consortium.org/all-projects/rugsprogram.html) de apoyo a grupos locales. 
+

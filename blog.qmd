@@ -1,0 +1,16 @@
+---
+title: "Blog"
+listing:
+  contents: blog
+  sort: "date desc"
+  type: grid
+  image-align: left
+  max-description-length: 175
+  date-format: medium
+  categories: cloud 
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: "#c9d2d8"
+title-block-banner-color: "#000000"
+---

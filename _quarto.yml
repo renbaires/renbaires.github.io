@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+  
+lang: es
+  
+website:
+  title: "R en Buenos Aires"
+  navbar:
+    right: 
+      - href: index.qmd
+        text: Home
+      - href: actividades.qmd
+        text: "Actividades"
+      - href: quienes-somos.qmd
+        text: "Quienes Somos"
+      - href: coc.qmd
+        text: "Código de Conducta"
+      - href: r-consortium.qmd
+        text: "R consortium"
+      - text: "Blog"
+        href: blog.qmd
+  page-footer:
+    left: "© 2025 All rights reserved."
+    right:
+      - icon: github
+        href: https://github.com/yourusername
+      - icon: linkedin
+        href: https://linkedin.com/in/yourusername
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
