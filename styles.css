@@ -1,7 +1,8 @@
+/* Fondo general para TODAS las páginas */
+
 body {
-  background-image: url("image/back2.png");
+  background-image: url("image/back4.png");
   background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: repeat-y;
   background-position: center;
 }
-

@@ -1,0 +1,123 @@
+## Comunidades amigas
+
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+[🔗 R-Ladies Buenos Aires](https://github.com/RLadies-BA)
+
+
+![R-Ladies Buenos Aires](https://avatars.githubusercontent.com/u/38664570?s=200&v=4){width="60%"}
+
+
+:::
+
+::: {.column width="50%"}
+
+[🔗 R-Ladies Santa Rosa](https://www.meetup.com/rladies-santa-rosa/A)
+
+![R-Ladies Santa Rosa](image/rladies.png){width="50%"}
+
+
+:::
+:::
+
+
+::: {.columns}
+
+::: {.column width="33%"}
+
+[🔗 LatinR](https://github.com/LatinR)
+
+
+![LatinR](https://github.com/LatinR/identidad-visual-latinR/blob/master/LatinR_hex_principal.png?raw=true){width="60%"}
+
+
+
+:::
+
+
+::: {.column width="50%"}
+
+:::
+
+::: 
+
+<br>
+<br>
+
+
+## Organizaciones e Instituciones que nos apoyan
+
+
+::: {.columns}
+
+::: {.column width="50%"}
+[🔗 rOpenSci](https://ropensci.org/)
+
+
+![rOpenSci](https://raw.githubusercontent.com/ropensci/logos/master/stickers/blue_short_hexsticker.png){width="50%"}
+
+
+
+
+:::
+
+::: {.column width="50%"}
+[🔗 Nucleo de Innovación Social - NIS](https://nucleodeinnovacionsocial.com.ar/)
+
+
+![Nucleo de Innovación Social - NIS](image/NIShex.png){width="50%"}
+
+
+:::
+
+:::
+
+
+::: {.columns}
+
+::: {.column width="50%"}
+[🔗 Estación R](https://ropensci.org/)
+
+![Estación R](image/estacionr.png){width="90%"}
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+[🔗 Universidad de Flores](https://www.uflouniversidad.edu.ar/)
+
+<br>
+
+![Universidad de Flores](image/uflo.png){width="60%"}
+
+
+
+
+
+
+:::
+
+:::
+
+::: {.columns}
+
+::: {.column width="100%"}
+[🔗 Universidad Nacional de la Matanza - Biblioteca Leopoldo Marechal - UNLAM ](https://www.unlam.edu.ar/)
+
+<br>
+
+![Biblioteca Leopoldo Marechal - UNLAM](image/bibliotecaunlam.png){width="30%"} 
+![Universidad Nacional de la Matanza](image/unlam.png)
+
+
+
+
+:::
+
+:::

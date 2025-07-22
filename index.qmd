@@ -8,9 +8,15 @@ about:
     - icon: github
       text: Github
       href: https://github.com/renbaires
+    - icon: slack
+      text: Sumate a nuestro canal de slack 
+      href: https://join.slack.com/t/r-buenosaires/shared_invite/zt-39hdkpq76-5dL_lHyzUQSqjr17tRMGCQ
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/company/r-en-buenos-aires/
+    - icon: youtube
+      href: https://www.youtube.com/@renbaires 
+      text: Canal de youtube
     - icon: twitter-x
       href: https://x.com/renbaires
     - icon: instagram
@@ -22,4 +28,5 @@ format:
   html:
     toc: FALSE 
 ---
+
 

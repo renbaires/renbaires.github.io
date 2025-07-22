@@ -78,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -97,23 +97,6 @@ ul.task-list li input[type="checkbox"] {
     }
   })
   </script>
-<style>
-
-      .quarto-title-block .quarto-title-banner h1,
-      .quarto-title-block .quarto-title-banner h2,
-      .quarto-title-block .quarto-title-banner h3,
-      .quarto-title-block .quarto-title-banner h4,
-      .quarto-title-block .quarto-title-banner h5,
-      .quarto-title-block .quarto-title-banner h6
-      {
-        color: #000000;
-      }
-
-      .quarto-title-block .quarto-title-banner {
-        color: #000000;
-background: #c9d2d8;
-      }
-</style>
 
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
@@ -151,7 +134,7 @@ window.Quarto = {
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -167,7 +150,7 @@ window.Quarto = {
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="./index.html"> 
-<span class="menu-text">Home</span></a>
+<span class="menu-text">Bienvenida</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./actividades.html"> 
@@ -176,6 +159,10 @@ window.Quarto = {
   <li class="nav-item">
     <a class="nav-link" href="./quienes-somos.html"> 
 <span class="menu-text">Quienes Somos</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./comunidades.html"> 
+<span class="menu-text">Nuestra Red</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./coc.html"> 
@@ -197,33 +184,32 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Blog</h1>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta column-page-left">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categorías</h5><div class="quarto-listing-category category-cloud"></div></div>
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Blog</h1>
+</div>
 
 
 
+<div class="quarto-title-meta column-page">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
 
 
 
@@ -232,30 +218,33 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1752771015979" data-listing-reading-time-sort="2" data-listing-word-count-sort="255">
-<a href="./blog/2018-12-17-taller-blogdown.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1572490800000" data-listing-file-modified-sort="1753198603858" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="205">
+<a href="./blog/2019-11-17-usethis-humedales/2019-11-17-usethis-humedales.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<p class="card-img-top"><img src="blog\2019-11-17-usethis-humedales\usemauro.jpeg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Primer encuentro - Taller de blogdown
+Pull requests con <code>usethis</code> (Mauro Lepore) + Prediciendo Humedales (Priscilla Minotti)
 </h5>
 <div class="card-text listing-description">
-<p>Nuestro primer encuentro fue también el último encuentro del año de R-Ladies Buenos Aires. Aprendimos a crear una página web desde R con blogdown!</p>
+Tuvimos un encuentro de Noche de Brujas donde Mauro Lepore nos hizo una visita guiada por algunas funciones del paquete <code>usethis</code> y Priscilla Minotti nos contó una historia…
 </div>
-<div class="card-attribution card-text-small start">
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 
+</div>
+<div class="listing-date">
+31 oct 2019
 </div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1752771015980" data-listing-reading-time-sort="2" data-listing-word-count-sort="244">
-<a href="./blog/2019-04-29-datosdemiercoles-toma-deciciones-salud.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-listing-date-sort="1555383600000" data-listing-file-modified-sort="1753198640065" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="249">
+<a href="./blog/2019-04-29-datos-miercoles-salud/2019-04-29-datosdemiercoles-toma-deciciones-salud.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<p class="card-img-top"><img src="blog\2019-04-29-datos-miercoles-salud\ddm0.jpg" alt="Salón lleno en Medallia" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 DatosDeMiércoles y Toma de decisiones en salud en nuestro meetup de abril 2019
@@ -263,29 +252,35 @@ DatosDeMiércoles y Toma de decisiones en salud en nuestro meetup de abril 2019
 <div class="card-text listing-description">
 En el primer meetup de 2019 Julio Spairani presentó la iniciativa de #DatosDeMiércoles para practicar análisis y visualización de datos en comunidad y Natalie Soto contó su…
 </div>
-<div class="card-attribution card-text-small start">
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 
+</div>
+<div class="listing-date">
+16 abr 2019
 </div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1752771015981" data-listing-reading-time-sort="2" data-listing-word-count-sort="223">
-<a href="./blog/2019-11-17-usethis-humedales.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="2" data-listing-date-sort="1543806000000" data-listing-file-modified-sort="1753198445556" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="217">
+<a href="./blog/2018-12-17-taller-blogdown/2018-12-17-taller-blogdown.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<p class="card-img-top"><img src="blog\2018-12-17-taller-blogdown\taller-blogdown1.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Pull requests con usethis (Mauro Lepore) + Prediciendo Humedales (Priscilla Minotti)
+Primer encuentro - Taller de blogdown
 </h5>
 <div class="card-text listing-description">
-Tuvimos un encuentro de Noche de Brujas donde Mauro Lepore nos hizo una visita guiada por algunas funciones del paquete usethis y Priscilla Minotti nos contó una historia…
+<p>Nuestro primer encuentro fue también el último encuentro del año de R-Ladies Buenos Aires. Aprendimos a crear una página web desde R con blogdown!</p>
 </div>
-<div class="card-attribution card-text-small start">
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 
+</div>
+<div class="listing-date">
+3 dic 2018
 </div>
 </div>
 </div>
@@ -716,20 +711,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       &nbsp;
     </div>
     <div class="nav-footer-right">
-      <ul class="footer-items list-unstyled">
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/yourusername">
-      <i class="bi bi-github" role="img">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://linkedin.com/in/yourusername">
-      <i class="bi bi-linkedin" role="img">
-</i> 
-    </a>
-  </li>  
-</ul>
+      &nbsp;
     </div>
   </div>
 </footer>

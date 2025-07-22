@@ -9,11 +9,13 @@ website:
   navbar:
     right: 
       - href: index.qmd
-        text: Home
+        text: Bienvenida
       - href: actividades.qmd
         text: "Actividades"
       - href: quienes-somos.qmd
         text: "Quienes Somos"
+      - href: comunidades.qmd
+        text: "Nuestra Red"
       - href: coc.qmd
         text: "Código de Conducta"
       - href: r-consortium.qmd
@@ -22,11 +24,6 @@ website:
         href: blog.qmd
   page-footer:
     left: "© 2025 All rights reserved."
-    right:
-      - icon: github
-        href: https://github.com/yourusername
-      - icon: linkedin
-        href: https://linkedin.com/in/yourusername
 
 format:
   html:
