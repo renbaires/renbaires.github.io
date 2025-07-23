@@ -2,11 +2,13 @@
 title: "Quienes somos"
 ---
 
-Somos la comunidad de R en Buenos Aires. Nuestro objetivo es construir un espacio inclusivo y activo que fomente la colaboración, el intercambio de conocimientos y la promoción del uso de R en diversas disciplinas. 
 
-Creemos en el poder del trabajo colectivo, el aprendizaje mutuo y la importancia de crear un entorno respetuoso donde todas las voces sean bienvenidas. 💡  
+Somos la comunidad de R en Buenos Aires. Nuestro objetivo es construir un espacio inclusivo y activo que fomente la colaboración, el intercambio de conocimientos y la promoción del uso de R en diversas disciplinas.
 
-Si compartes nuestra pasión por R y la construcción de una comunidad abierta, no dudes en unirte a nosotros. 🖥️✨
+Creemos en el poder del trabajo colectivo, el aprendizaje mutuo y la importancia de crear un entorno respetuoso donde todas las voces sean bienvenidas.
+
+Si compartes nuestra pasión por R y la construcción de una comunidad abierta, no dudes en unirte a nosotros.
+
 
 ## Misión
 
@@ -32,53 +34,47 @@ Creamos esta comunidad con el ideal de brindar un espacio social activo e inclus
 
 7.  Contribuir activamente al desarrollo de herramientas de R como modo de aprendizaje y de participación en la comunidad global.
 
-
-## Equipo 
+## Equipo
 
 El corazón de R en Buenos Aires está en su comunidad, pero nada sería posible sin el esfuerzo y compromiso de quienes organizan y colaboran activamente para que cada evento y proyecto cobre vida.
 
 ### Organizadoras
 
-::: {.columns}
-
+::::: columns
 ::: {.column width="50%"}
-
 ![](https://avatars.githubusercontent.com/u/45582182?v=4){width="50%" style="border-radius: 80%;"}
 
 [**Andrea Gomez Vargas**](https://github.com/SoyAndrea)
-
 :::
 
 ::: {.column width="50%"}
-
 ![](image/Ariana.jpeg){width="50%" style="border-radius: 80%;"}
 
 [**Ariana Bardauil**](https://github.com/ariibard)
-
 :::
-
-:::
+:::::
 
 ### Colaboradores
 
-::: {.columns}
-
+::::: columns
 ::: {.column width="50%"}
-
 ![](https://avatars.githubusercontent.com/u/64991969?v=4){width="50%" style="border-radius: 80%;"}
 
 [**Emanuel Ciardullo**](https://github.com/ECiardullo)
-
 :::
 
 ::: {.column width="50%"}
-
 :::
+:::::
 
-:::
+### Integrantes Anteriores
 
-## Hex 
+## Hex
 
+Inspirades en la esencia de Buenos Aires y en su capacidad de renovarse, incorporamos el fileteado a nuestro hex como un símbolo colorido de identidad, comunidad y conexión... y por qué no, también de nuestra comunidad dentro del grupo de usuarios de R.
+
+Elaborado por **Norberto Cáseres**  
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="16" style="vertical-align: middle;"/> @estudiodefileteado](https://www.instagram.com/estudiodefileteado)
 
 
 ![](image/hexbeto.png)

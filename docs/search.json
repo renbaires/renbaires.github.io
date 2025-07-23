@@ -7,6 +7,13 @@
     "text": "R en Buenos Aires es posible en parte gracias a la generosa ayuda de R Consortium quienes nos brindan apoyo económico a través de su programa de apoyo a grupos locales."
   },
   {
+    "objectID": "r-consortium.html#blogs-con-rconsortium",
+    "href": "r-consortium.html#blogs-con-rconsortium",
+    "title": "R consortium",
+    "section": "Blogs con rconsortium",
+    "text": "Blogs con rconsortium"
+  },
+  {
     "objectID": "coc.html",
     "href": "coc.html",
     "title": "Código de Conducta",
@@ -39,7 +46,21 @@
     "href": "actividades.html",
     "title": "Actividades",
     "section": "",
-    "text": "Fecha\nNombre del Evento\nLugar\nMateriales\n\n\n\n\n2025-07-30\nClub de libro Mastering Shiny - Encuentro 10\nvirtual\nMateriales\n\n\n2025-07-16\nClub de libro Mastering Shiny - Encuentro 9\nvirtual\nMateriales\n\n\n2025-06-25\nClub de libro Mastering Shiny - Encuentro 8\nvirtual\nPresentación\n\n\n2025-06-24\n¡Miércoles, Git! Manejo de errores en Git y no morir en el intento\nvirtual\nPresentación\n\n\n2025-06-11\nClub de libro Mastering Shiny - Encuentro 7\nvirtual\nMateriales\n\n\n2025-05-28\nClub de libro Mastering Shiny - Encuentro 6\nvirtual\nPresentación\n\n\n2025-05-14\nClub de libro Mastering Shiny - Encuentro 5\nvirtual\nRepositorio\n\n\n2025-04-30\nClub de libro Mastering Shiny - Encuentro 4\nvirtual\nPresentación\n\n\n2025-04-16\nClub de libro Mastering Shiny - Encuentro 3\nvirtual\nRepositorio\n\n\n2025-03-19\nClub de libro Mastering Shiny - Encuentro 2\nvirtual\nPresentación\n\n\n2025-03-05\nClub de libro Mastering Shiny - Encuentro 1\nvirtual\nPresentacion\n\n\n2024-12-20\nR en Red: ARcenso, Oportunidades y Comunidad\nCasona Humahuaca\nRepositorio\n\n\n2024-12-02\nBig data, medios digitales y autogestión: cómo trabajar con millones de noticias\nUFLO\nRepositorio\n\n\n2024-10-29\nR para la demografía social: un taller aplicado a la EPH\nUnLAM\nwebsite"
+    "text": "Todos el historial de eventos y próximas actividades de R en Buenos Aires se encuentran registrados en  Meetup.com. Y los materiales están disponibles en el repositorio del capítulo en  GitHub"
+  },
+  {
+    "objectID": "actividades.html#dónde-seguir-nuestras-actividades",
+    "href": "actividades.html#dónde-seguir-nuestras-actividades",
+    "title": "Actividades",
+    "section": "",
+    "text": "Todos el historial de eventos y próximas actividades de R en Buenos Aires se encuentran registrados en  Meetup.com. Y los materiales están disponibles en el repositorio del capítulo en  GitHub"
+  },
+  {
+    "objectID": "actividades.html#acá-encontrarás-todas-las-actividades-realizadas-desde-2024-a-la-fecha",
+    "href": "actividades.html#acá-encontrarás-todas-las-actividades-realizadas-desde-2024-a-la-fecha",
+    "title": "Actividades",
+    "section": "Acá encontrarás todas las actividades realizadas desde 2024 a la fecha",
+    "text": "Acá encontrarás todas las actividades realizadas desde 2024 a la fecha\n\n\n\nFecha\nNombre del Evento\nLugar\nMateriales\n\n\n\n\n2025-07-30\nClub de libro Mastering Shiny - Encuentro 10\nvirtual\nMateriales\n\n\n2025-07-16\nClub de libro Mastering Shiny - Encuentro 9\nvirtual\nMateriales\n\n\n2025-06-25\nClub de libro Mastering Shiny - Encuentro 8\nvirtual\nPresentación\n\n\n2025-06-24\n¡Miércoles, Git! Manejo de errores en Git y no morir en el intento\nvirtual\nPresentación\n\n\n2025-06-11\nClub de libro Mastering Shiny - Encuentro 7\nvirtual\nMateriales\n\n\n2025-05-28\nClub de libro Mastering Shiny - Encuentro 6\nvirtual\nPresentación\n\n\n2025-05-14\nClub de libro Mastering Shiny - Encuentro 5\nvirtual\nRepositorio\n\n\n2025-04-30\nClub de libro Mastering Shiny - Encuentro 4\nvirtual\nPresentación\n\n\n2025-04-16\nClub de libro Mastering Shiny - Encuentro 3\nvirtual\nRepositorio\n\n\n2025-03-19\nClub de libro Mastering Shiny - Encuentro 2\nvirtual\nPresentación\n\n\n2025-03-05\nClub de libro Mastering Shiny - Encuentro 1\nvirtual\nPresentacion\n\n\n2024-12-20\nR en Red: ARcenso, Oportunidades y Comunidad\nCasona Humahuaca\nRepositorio\n\n\n2024-12-02\nBig data, medios digitales y autogestión: cómo trabajar con millones de noticias\nUFLO\nRepositorio\n\n\n2024-10-29\nR para la demografía social: un taller aplicado a la EPH\nUnLAM\nwebsite"
   },
   {
     "objectID": "blog/2019-04-29-datos-miercoles-salud/2019-04-29-datosdemiercoles-toma-deciciones-salud.html",
@@ -58,30 +79,37 @@
   {
     "objectID": "comunidades.html",
     "href": "comunidades.html",
-    "title": "R en Buenos Aires",
+    "title": "Nuestra Red",
     "section": "",
-    "text": "🔗 R-Ladies Buenos Aires\n\n\n\nR-Ladies Buenos Aires\n\n\n\n🔗 R-Ladies Santa Rosa\n\n\n\nR-Ladies Santa Rosa\n\n\n\n\n\n\n🔗 LatinR\n\n\n\nLatinR"
+    "text": "La red de R en Buenos Aires se sostiene gracias al apoyo de comunidades amigas, organizaciones e instituciones que creen en el valor del trabajo colectivo. Juntes impulsamos actividades, generamos espacios de encuentro y promovemos el uso de software libre como una forma de abrir oportunidades y acercar el conocimiento a más personas.\nMuchas universidades y organizaciones nos prestan aulas y espacios para realizar talleres y encuentros sin costo, algo fundamental porque el trabajo en esta comunidad es 100% voluntario. Ese acompañamiento permite que más personas puedan participar, aprender y ser parte, sin barreras.\nAsí seguimos construyendo una comunidad activa, abierta y con ganas de seguir creciendo compartiendo lo que sabemos."
   },
   {
     "objectID": "comunidades.html#comunidades-amigas",
     "href": "comunidades.html#comunidades-amigas",
-    "title": "R en Buenos Aires",
-    "section": "",
-    "text": "🔗 R-Ladies Buenos Aires\n\n\n\nR-Ladies Buenos Aires\n\n\n\n🔗 R-Ladies Santa Rosa\n\n\n\nR-Ladies Santa Rosa\n\n\n\n\n\n\n🔗 LatinR\n\n\n\nLatinR"
+    "title": "Nuestra Red",
+    "section": "Comunidades amigas",
+    "text": "Comunidades amigas\nEspacios con los que compartimos afinidad, intereses y actividades. Nos apoyamos mutuamente, coorganizamos eventos y aprendemos colectivavmente.\n\n\n🔗 R-Ladies Buenos Aires\n\n\n\nR-Ladies Buenos Aires\n\n\n\n🔗 R-Ladies Santa Rosa\n\n\n\nR-Ladies Santa Rosa\n\n\n\n\n\n\n🔗 LatinR\n\n\n\nLatinR"
   },
   {
-    "objectID": "comunidades.html#organizaciones-e-instituciones-que-nos-apoyan",
-    "href": "comunidades.html#organizaciones-e-instituciones-que-nos-apoyan",
-    "title": "R en Buenos Aires",
-    "section": "Organizaciones e Instituciones que nos apoyan",
-    "text": "Organizaciones e Instituciones que nos apoyan\n\n\n🔗 rOpenSci\n\n\n\nrOpenSci\n\n\n\n🔗 Nucleo de Innovación Social - NIS\n\n\n\nNucleo de Innovación Social - NIS\n\n\n\n\n\n\n🔗 Estación R\n\n\n\nEstación R\n\n\n\n🔗 Universidad de Flores\n\n\n\n\nUniversidad de Flores\n\n\n\n\n\n\n🔗 Universidad Nacional de la Matanza - Biblioteca Leopoldo Marechal - UNLAM"
+    "objectID": "comunidades.html#organizaciones-aliadas",
+    "href": "comunidades.html#organizaciones-aliadas",
+    "title": "Nuestra Red",
+    "section": "Organizaciones aliadas",
+    "text": "Organizaciones aliadas\nProyectos, colectivos y grupos que colaboran con iniciativas concretas, difusión, recursos técnicos o actividades conjuntas. Su participación potencia el crecimiento de la comunidad y amplifica nuestro alcance.\n\n\n🔗 rOpenSci\n\n\n\nrOpenSci\n\n\n\n🔗 Nucleo de Innovación Social - NIS\n\n\n\nNucleo de Innovación Social - NIS\n\n\n\n\n\n\n🔗 Estación R\n\n\n\nEstación R"
+  },
+  {
+    "objectID": "comunidades.html#instituciones-que-nos-acompañan",
+    "href": "comunidades.html#instituciones-que-nos-acompañan",
+    "title": "Nuestra Red",
+    "section": "Instituciones que nos acompañan",
+    "text": "Instituciones que nos acompañan\nUniversidades, centros de estudio u organismos que nos brindan espacios físicos, aulas o apoyo institucional para llevar adelante nuestras actividades. Su apoyo es clave para sostener una comunidad abierta, gratuita y colaborativa.\n\n\n🔗 Universidad de Flores\n\n\n\n\nUniversidad de Flores\n\n\n\n\n\n\n\n\n🔗 Universidad Nacional de la Matanza - Biblioteca Leopoldo Marechal - UNLAM"
   },
   {
     "objectID": "quienes-somos.html",
     "href": "quienes-somos.html",
     "title": "Quienes somos",
     "section": "",
-    "text": "Somos la comunidad de R en Buenos Aires. Nuestro objetivo es construir un espacio inclusivo y activo que fomente la colaboración, el intercambio de conocimientos y la promoción del uso de R en diversas disciplinas.\nCreemos en el poder del trabajo colectivo, el aprendizaje mutuo y la importancia de crear un entorno respetuoso donde todas las voces sean bienvenidas. 💡\nSi compartes nuestra pasión por R y la construcción de una comunidad abierta, no dudes en unirte a nosotros. 🖥️✨"
+    "text": "Somos la comunidad de R en Buenos Aires. Nuestro objetivo es construir un espacio inclusivo y activo que fomente la colaboración, el intercambio de conocimientos y la promoción del uso de R en diversas disciplinas.\nCreemos en el poder del trabajo colectivo, el aprendizaje mutuo y la importancia de crear un entorno respetuoso donde todas las voces sean bienvenidas.\nSi compartes nuestra pasión por R y la construcción de una comunidad abierta, no dudes en unirte a nosotros."
   },
   {
     "objectID": "quienes-somos.html#misión",
@@ -109,20 +137,13 @@
     "href": "quienes-somos.html#equipo",
     "title": "Quienes somos",
     "section": "Equipo",
-    "text": "Equipo\nEl corazón de R en Buenos Aires está en su comunidad, pero nada sería posible sin el esfuerzo y compromiso de quienes organizan y colaboran activamente para que cada evento y proyecto cobre vida.\n\nOrganizadoras\n\n\n\nAndrea Gomez Vargas\n\n\nAriana Bardauil\n\n\n\n\nColaboradores\n\n\n\nEmanuel Ciardullo"
+    "text": "Equipo\nEl corazón de R en Buenos Aires está en su comunidad, pero nada sería posible sin el esfuerzo y compromiso de quienes organizan y colaboran activamente para que cada evento y proyecto cobre vida.\n\nOrganizadoras\n\n\n\nAndrea Gomez Vargas\n\n\nAriana Bardauil\n\n\n\n\nColaboradores\n\n\n\nEmanuel Ciardullo\n\n\n\n\n\n\nIntegrantes Anteriores"
   },
   {
     "objectID": "quienes-somos.html#hex",
     "href": "quienes-somos.html#hex",
     "title": "Quienes somos",
     "section": "Hex",
-    "text": "Hex"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "R en Buenos Aires",
-    "section": "",
-    "text": "Somos la comunidad de R en Buenos Aires. Nuestro objetivo es construir un espacio inclusivo y activo que fomente la colaboración, el intercambio de conocimientos y la promoción del uso de R en diversas disciplinas.\nCreemos en el poder del trabajo colectivo, el aprendizaje mutuo y la importancia de crear un entorno respetuoso donde todas las voces sean bienvenidas. 💡"
+    "text": "Hex\nInspirades en la esencia de Buenos Aires y en su capacidad de renovarse, incorporamos el fileteado a nuestro hex como un símbolo colorido de identidad, comunidad y conexión… y por qué no, también de nuestra comunidad dentro del grupo de usuarios de R.\nElaborado por Norberto Cáseres\n @estudiodefileteado"
   }
 ]

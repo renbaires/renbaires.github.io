@@ -7,13 +7,8 @@ body {
   background-position: center;
 }
 
-/* Fondo distinto solo para index.qmd */
-body.home-page {
-  background-image: url("image/back2.png");
-}
 
-.btn-group {
-  display: flex;
-  gap: 0.5em;
-  margin-top: 0.5em;
+.info-card {
+  font-size: 1.2rem;
+  border-radius: 20px;
 }
