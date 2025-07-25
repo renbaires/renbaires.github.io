@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Sancreek&display=swap');
+
+.quarto-title .title {
+  font-family: 'Sancreek', cursive !important;
+  text-align: center !important;
+  font-size: 3rem !important;
+}
+
+.quarto-title .subtitle {
+  text-align: center !important;
+  font-size: 1.5rem !important;
+}
+
+h1,
+h1.title,
+.quarto-title .title {
+  font-family: 'Sancreek', cursive !important;
+  text-align: center !important;
+  font-size: 3rem !important;
+}
+
+.hex-card {
+  background: linear-gradient(135deg, #ffffff, #fdf1f4);
+  border-radius: 20px;
+  padding: 25px;
+  margin: 30px auto;
+  max-width: 500px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border: 2px solid #CD5C74; /* usa el rosa que pasaste */
+}
+
+.hex-card p {
+  font-size: 1.1rem;
+  color: #444;
+  margin-bottom: 15px;
+}
+
+.hex-card img {
+  margin-top: 15px;
+  border-radius: 12px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+  transition: transform 0.3s ease;
+}
+
+.hex-card img:hover {
+  transform: scale(1.05);
+}
+
+

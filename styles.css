@@ -12,3 +12,14 @@ body {
   font-size: 1.2rem;
   border-radius: 20px;
 }
+
+a {
+  color: #CD5C74;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+a:hover {
+  color: #a9445a;
+  text-decoration: underline;
+}

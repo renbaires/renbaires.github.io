@@ -1,5 +1,8 @@
 ---
 title: "Nuestra Red"
+format:
+  html:
+    css: titulo.css
 ---
 
 La red de R en Buenos Aires se sostiene gracias al apoyo de comunidades amigas, organizaciones e instituciones que creen en el valor del trabajo colectivo. Juntes impulsamos actividades, generamos espacios de encuentro y promovemos el uso de software libre como una forma de abrir oportunidades y acercar el conocimiento a más personas.

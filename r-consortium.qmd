@@ -1,6 +1,8 @@
 ---
 title: "R consortium"
-format: html
+format:
+  html:
+    css: titulo.css
 editor: visual
 ---
 

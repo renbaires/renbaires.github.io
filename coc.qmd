@@ -1,7 +1,9 @@
 ---
 title: "Código de Conducta"
 author: "Equipo Organizador"
-format: html
+format:
+  html:
+    css: titulo.css
 editor: visual
 ---
 

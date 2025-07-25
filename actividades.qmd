@@ -1,7 +1,10 @@
 ---
 title: "Actividades"
-format: html
-editor: visual
+format:
+  html:
+    toc: FALSE 
+    css: actividades.css
+editor: visual 
 ---
 
 ::: {.card .info-card}
