@@ -7,35 +7,41 @@ format:
 editor: visual
 ---
 
-La comunidad de R en Buenos Aires, incluyendo sus organizadores, deben conocer y seguir este Código de Conducta (basado en el Código de Conducta de R Community) que es establecido con la finalidad de alentar al crecimiento de esta comunidad, participando en un ambiente amigable y partiendo de la base del respeto mutuo.
+> **Queremos que R en Buenos Aires sea un grupo libre de acoso.**
 
-Este código de conducta aplica en todos los espacios de participación de RenBaires, incluyendo reuniones, Twitter, Slack, listas de correo, tanto online como offline. También es aplicable fuera de los espacios del grupo a quienes actúen en representación del mismo, ya sea online u offline.
+La comunidad de R en Buenos Aires, incluyendo su equipo organizador, debe conocer y seguir este Código de Conducta (basado en el de R Community). Su objetivo es fomentar el crecimiento de la comunidad en un entorno amigable y respetuoso.
 
-En cualquier tipo de evento ya sea **conferencia, charla, taller, fiesta, reunión, redes sociales y otros medios en línea**:
+Este Código se aplica a todos los espacios de participación de R en Buenos Aires —como reuniones, redes sociales, Slack y listas de correo— tanto presenciales como virtuales. También rige para quienes actúan en representación del grupo, incluso fuera de estos espacios.
 
-- Aborde los esfuerzos ajenos con consideración;
-    
-- Cuando no esté de acuerdo con algo, sea amable al plantear sus problemas;
-    
-- Ejercite la consideración y el respeto en su discurso y en sus acciones;
-    
-- Intente colaborar para evitar conflictos;
-    
-- Sea consciente de su entorno y del resto de las personas;
-    
-- Alerte a quien considere oportuno si nota alguna situación peligrosa, alguien sufriendo una situación comprometedora o violaciones de este Código de Conducta, incluso aunque parezcan poco importantes. Responderemos tan pronto como podamos.
- 
+## Comportamiento esperado
 
-> Queremos que R en Buenos Aires sea un grupo **libre de acoso**.
 
-:::{.callout-important}
-Acoso incluye, entre otros: insultos, tanto directos como indirectos; daño o perjurio verbal o escrito relacionado con género, orientación sexual, raza, religión, incapacidad; uso inapropiado de imágenes de desnudez (incluyendo presentaciones digitales); intimidación deliberada, acecho o persecución; fotografías o grabaciones abusivas; interrupción sostenida de presentaciones u de otros eventos; contacto físico inapropiado y atención sexual no deseada.
-::: 
+Esperamos que en todos los espacios de participación de R en Buenos Aires como conferencias, charlas, talleres, fiestas, reuniones, redes sociales y otros entornos digitales se mantenga una actitud respetuosa, colaborativa y atenta. Algunas pautas de comportamiento incluyen:
 
-Quienes violen estas reglas podrían recibir una sanción o explusión del grupo. Si se te pide que detengas cualquier comportamiento que se considere como acoso, esperamos que lo detengas de inmediato.
 
-Somos receptivos a los comentarios constructivos y las críticas, ya que las experiencias y conjuntos de habilidades de otras personas contribuyen a todos nuestros esfuerzos. Aceptamos a cualquiera que desee participar en nuestras actividades. Fomentanmos un entorno en el que quien lo desee pueda aportar y marcar la diferencia.
+- Respetar y reconocer los aportes de otras personas.
 
-## Veedores del Código de Conducta
+- Ser amable al expresar desacuerdos.
 
-Este código de conducta será aplicado por el equipo organizador. El mismo será diverso y tendrá autoridad para resolver cualquier disputa. En eventos offline habrá al menos un representante designado para aplicar el código de conducta que puede no ser parte del grupo designado en caso de que no haya disponibilidad. En caso de disputas que involucren a alguien que es parte del grupo designado, ésta persona se hará a un lado en la toma de decisiones. 
+- Mantener un discurso y acciones considerados y respetuosos.
+
+- Colaborar activamente para prevenir conflictos.
+
+- Estar atento/a al entorno y a quienes lo rodean.
+
+- Informar al equipo organizador si se observa una situación riesgosa, alguien atravesando una experiencia incómoda o una posible violación de este Código, incluso si parece menor.
+
+
+::: callout-important
+El acoso incluye, entre otros: insultos directos o indirectos; daño verbal o escrito por motivos de género, orientación sexual, raza, religión o discapacidad; uso inapropiado de imágenes de desnudez (incluso en presentaciones); intimidación deliberada, acecho, persecución; fotografías o grabaciones abusivas; interrupciones sostenidas en presentaciones u otros eventos; contacto físico inapropiado y atención sexual no deseada.
+:::
+
+Quienes violen estas reglas podrían ser sancionados o expulsados del grupo. Si se te pide que detengas un comportamiento considerado inapropiado, esperamos que lo hagas de inmediato.
+
+Apreciamos los comentarios y críticas constructivas: las experiencias y habilidades diversas enriquecen nuestras actividades. Fomentamos un entorno donde todas las personas puedan participar y generar un impacto positivo.
+
+## Aplicación del Código de Conducta
+
+Este Código será aplicado por el equipo organizador, que será diverso y tendrá autoridad para resolver disputas. En los eventos presenciales habrá al menos una persona designada para su implementación, que podrá no ser parte del grupo organizador si no hay disponibilidad. En caso de que una disputa involucre a alguien del equipo responsable, esa persona se apartará del proceso de toma de decisiones.
+
+

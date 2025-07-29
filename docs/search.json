@@ -18,7 +18,7 @@
     "href": "coc.html",
     "title": "Código de Conducta",
     "section": "",
-    "text": "La comunidad de R en Buenos Aires, incluyendo sus organizadores, deben conocer y seguir este Código de Conducta (basado en el Código de Conducta de R Community) que es establecido con la finalidad de alentar al crecimiento de esta comunidad, participando en un ambiente amigable y partiendo de la base del respeto mutuo.\nEste código de conducta aplica en todos los espacios de participación de RenBaires, incluyendo reuniones, Twitter, Slack, listas de correo, tanto online como offline. También es aplicable fuera de los espacios del grupo a quienes actúen en representación del mismo, ya sea online u offline.\nEn cualquier tipo de evento ya sea conferencia, charla, taller, fiesta, reunión, redes sociales y otros medios en línea:\nQuienes violen estas reglas podrían recibir una sanción o explusión del grupo. Si se te pide que detengas cualquier comportamiento que se considere como acoso, esperamos que lo detengas de inmediato.\nSomos receptivos a los comentarios constructivos y las críticas, ya que las experiencias y conjuntos de habilidades de otras personas contribuyen a todos nuestros esfuerzos. Aceptamos a cualquiera que desee participar en nuestras actividades. Fomentanmos un entorno en el que quien lo desee pueda aportar y marcar la diferencia."
+    "text": "Queremos que R en Buenos Aires sea un grupo libre de acoso.\nLa comunidad de R en Buenos Aires, incluyendo su equipo organizador, debe conocer y seguir este Código de Conducta (basado en el de R Community). Su objetivo es fomentar el crecimiento de la comunidad en un entorno amigable y respetuoso.\nEste Código se aplica a todos los espacios de participación de R en Buenos Aires —como reuniones, redes sociales, Slack y listas de correo— tanto presenciales como virtuales. También rige para quienes actúan en representación del grupo, incluso fuera de estos espacios."
   },
   {
     "objectID": "coc.html#veedores-del-código-de-conducta",
@@ -107,29 +107,43 @@
   {
     "objectID": "quienes-somos.html",
     "href": "quienes-somos.html",
-    "title": "Quienes somos",
+    "title": "Quiénes somos",
     "section": "",
-    "text": "Somos la comunidad de R en Buenos Aires. Nuestro objetivo es construir un espacio inclusivo y activo que fomente la colaboración, el intercambio de conocimientos y la promoción del uso de R en diversas disciplinas.\nCreemos en el poder del trabajo colectivo, el aprendizaje mutuo y la importancia de crear un entorno respetuoso donde todas las voces sean bienvenidas.\nSi compartes nuestra pasión por R y la construcción de una comunidad abierta, no dudes en unirte a nosotros."
+    "text": "Reunión 20 de diciembre de 2024\nSomos la comunidad de R en Buenos Aires. Nuestro objetivo es construir un espacio inclusivo y activo que fomente la colaboración, el intercambio de conocimientos y la promoción del uso de R en diversas disciplinas.\nCreemos en el poder del trabajo colectivo, el aprendizaje mutuo y la importancia de crear un entorno respetuoso donde todas las voces sean bienvenidas.\nSi compartes nuestra pasión por R y la construcción de una comunidad abierta, no dudes en unirte a nosotros."
   },
   {
     "objectID": "quienes-somos.html#misión",
     "href": "quienes-somos.html#misión",
-    "title": "Quienes somos",
+    "title": "Quiénes somos",
     "section": "Misión",
     "text": "Misión\nEste grupo surge con la misión de conectar a quienes usan el lenguaje de programación R en la Ciudad de Buenos Aires, Argentina, independientemente de su grado de conocimiento y el ámbito de aplicación del mismo. Pretendemos promover el uso de R, apoyar el desarrollo de esta comunidad para compartir experiencias, promover el aprendizaje continuo y favorecer la creación de proyectos interdisciplinarios."
   },
   {
     "objectID": "quienes-somos.html#visión",
     "href": "quienes-somos.html#visión",
-    "title": "Quienes somos",
+    "title": "Quiénes somos",
     "section": "Visión",
     "text": "Visión\nCreamos esta comunidad con el ideal de brindar un espacio social activo e inclusivo donde se promueva el trabajo colaborativo y constructivo, compartiendo conocimientos e intercambiando opiniones en forma respetuosa y con la finalidad común de ampliar y promover el uso de R en diversas disciplinas."
   },
   {
     "objectID": "quienes-somos.html#objetivos",
     "href": "quienes-somos.html#objetivos",
-    "title": "Quienes somos",
+    "title": "Quiénes somos",
     "section": "Objetivos",
     "text": "Objetivos\n\nFomentar el uso del lenguaje de programación R en todas sus vertientes y ámbitos de aplicación, de manera colaborativa, mediante la enseñanza y el aprendizaje continuo.\nFacilitar el intercambio de enfoques, técnicas de programación y uso general de R mediante la realización periódica de reuniones presenciales y/o virtuales y el uso de los distintos canales de comunicación, permitiendo la integración de personas con intereses en R complementarios.\nParticipar en la creciente comunidad global de R, tendiendo puentes entre la comunidad nacional e internacional, mediante los diferentes canales de comunicación existentes, y la asistencia a reuniones y/o congresos a nivel nacional e internacional.\nImpulsar y ejecutar proyectos de análisis de datos con R que ayuden a la construcción de conocimiento y promoviendo buenas prácticas en el análisis de datos.\nOrganizar, patrocinar y promover cursos, congresos o reuniones para divulgar el uso de R, impartir conocimiento y mostrar los avances y resultados obtenidos mediante su aplicación.\nExpandir la base de conocimientos para hacerla accesible en idioma español. Los datos y los análisis de datos son una forma de conocimiento.\nContribuir activamente al desarrollo de herramientas de R como modo de aprendizaje y de participación en la comunidad global."
+  },
+  {
+    "objectID": "coc.html#comportamiento-esperado",
+    "href": "coc.html#comportamiento-esperado",
+    "title": "Código de Conducta",
+    "section": "Comportamiento esperado",
+    "text": "Comportamiento esperado\nEsperamos que en todos los espacios de participación de R en Buenos Aires como conferencias, charlas, talleres, fiestas, reuniones, redes sociales y otros entornos digitales se mantenga una actitud respetuosa, colaborativa y atenta. Algunas pautas de comportamiento incluyen:\n\nRespetar y reconocer los aportes de otras personas.\nSer amable al expresar desacuerdos.\nMantener un discurso y acciones considerados y respetuosos.\nColaborar activamente para prevenir conflictos.\nEstar atento/a al entorno y a quienes lo rodean.\nInformar al equipo organizador si se observa una situación riesgosa, alguien atravesando una experiencia incómoda o una posible violación de este Código, incluso si parece menor.\n\n\n\n\n\n\n\nImportante\n\n\n\nEl acoso incluye, entre otros: insultos directos o indirectos; daño verbal o escrito por motivos de género, orientación sexual, raza, religión o discapacidad; uso inapropiado de imágenes de desnudez (incluso en presentaciones); intimidación deliberada, acecho, persecución; fotografías o grabaciones abusivas; interrupciones sostenidas en presentaciones u otros eventos; contacto físico inapropiado y atención sexual no deseada.\n\n\nQuienes violen estas reglas podrían ser sancionados o expulsados del grupo. Si se te pide que detengas un comportamiento considerado inapropiado, esperamos que lo hagas de inmediato.\nApreciamos los comentarios y críticas constructivas: las experiencias y habilidades diversas enriquecen nuestras actividades. Fomentamos un entorno donde todas las personas puedan participar y generar un impacto positivo."
+  },
+  {
+    "objectID": "coc.html#aplicación-del-código-de-conducta",
+    "href": "coc.html#aplicación-del-código-de-conducta",
+    "title": "Código de Conducta",
+    "section": "Aplicación del Código de Conducta",
+    "text": "Aplicación del Código de Conducta\nEste Código será aplicado por el equipo organizador, que será diverso y tendrá autoridad para resolver disputas. En los eventos presenciales habrá al menos una persona designada para su implementación, que podrá no ser parte del grupo organizador si no hay disponibilidad. En caso de que una disputa involucre a alguien del equipo responsable, esa persona se apartará del proceso de toma de decisiones."
   }
 ]

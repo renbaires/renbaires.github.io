@@ -17,7 +17,7 @@ website:
       - href: actividades.qmd
         text: "Actividades"
       - href: quienes-somos.qmd
-        text: "Quienes Somos"
+        text: "Quiénes Somos"
       - href: comunidades.qmd
         text: "Nuestra Red"
       - href: coc.qmd
@@ -27,7 +27,7 @@ website:
       - text: "Blog"
         href: blog.qmd
   page-footer:
-    left: "© 2025 All rights reserved."
+    left: "© 2025 Equipo organizador. Todos los derechos reservados."
 
 format:
   html:
