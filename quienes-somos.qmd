@@ -8,16 +8,11 @@ format:
 
 ![Reunión 20 de diciembre de 2024](image/comunidad.jpg){width="50%"}
 
-<img src="images/comunidad.jpg" alt="Reu" width="50%"/>
-
-
 Somos la comunidad de R en Buenos Aires. Nuestro objetivo es construir un espacio inclusivo y activo que fomente la colaboración, el intercambio de conocimientos y la promoción del uso de R en diversas disciplinas.
 
 Creemos en el poder del trabajo colectivo, el aprendizaje mutuo y la importancia de crear un entorno respetuoso donde todas las voces sean bienvenidas.
 
 Si compartes nuestra pasión por R y la construcción de una comunidad abierta, no dudes en unirte a nosotros.
-
-
 
 ## Misión
 
@@ -49,7 +44,7 @@ El corazón de R en Buenos Aires está en su comunidad, pero nada sería posible
 
 ### Organizadoras
 
-::::: columns
+::: columns
 ::: {.column width="50%"}
 ![](https://avatars.githubusercontent.com/u/45582182?v=4){width="50%" style="border-radius: 80%;"}
 
@@ -61,11 +56,11 @@ El corazón de R en Buenos Aires está en su comunidad, pero nada sería posible
 
 [**Ariana Bardauil**](https://github.com/ariibard)
 :::
-:::::
+:::
 
 ### Colaboradores
 
-::::: columns
+::: columns
 ::: {.column width="50%"}
 ![](https://avatars.githubusercontent.com/u/64991969?v=4){width="50%" style="border-radius: 80%;"}
 
@@ -74,9 +69,7 @@ El corazón de R en Buenos Aires está en su comunidad, pero nada sería posible
 
 ::: {.column width="50%"}
 :::
-:::::
-
-
+:::
 
 ::: hex-card
 # Hex
