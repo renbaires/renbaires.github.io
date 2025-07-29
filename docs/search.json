@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "r-consortium.html",
+    "href": "r-consortium.html",
+    "title": "R consortium",
+    "section": "",
+    "text": "R en Buenos Aires es posible en parte gracias a la generosa ayuda de R Consortium quienes nos brindan apoyo económico a través de su programa de apoyo a grupos locales."
+  },
+  {
+    "objectID": "r-consortium.html#blogs-con-rconsortium",
+    "href": "r-consortium.html#blogs-con-rconsortium",
+    "title": "R consortium",
+    "section": "Blogs con rconsortium",
+    "text": "Blogs con rconsortium"
+  },
+  {
+    "objectID": "coc.html",
+    "href": "coc.html",
+    "title": "Código de Conducta",
+    "section": "",
+    "text": "Queremos que R en Buenos Aires sea un grupo libre de acoso.\nLa comunidad de R en Buenos Aires, incluyendo su equipo organizador, debe conocer y seguir este Código de Conducta (basado en el de R Community). Su objetivo es fomentar el crecimiento de la comunidad en un entorno amigable y respetuoso.\nEste Código se aplica a todos los espacios de participación de R en Buenos Aires —como reuniones, redes sociales, Slack y listas de correo— tanto presenciales como virtuales. También rige para quienes actúan en representación del grupo, incluso fuera de estos espacios."
+  },
+  {
+    "objectID": "coc.html#comportamiento-esperado",
+    "href": "coc.html#comportamiento-esperado",
+    "title": "Código de Conducta",
+    "section": "Comportamiento esperado",
+    "text": "Comportamiento esperado\nEsperamos que en todos los espacios de participación de R en Buenos Aires como conferencias, charlas, talleres, fiestas, reuniones, redes sociales y otros entornos digitales se mantenga una actitud respetuosa, colaborativa y atenta. Algunas pautas de comportamiento incluyen:\n\nRespetar y reconocer los aportes de otras personas.\nSer amable al expresar desacuerdos.\nMantener un discurso y acciones considerados y respetuosos.\nColaborar activamente para prevenir conflictos.\nEstar atento/a al entorno y a quienes lo rodean.\nInformar al equipo organizador si se observa una situación riesgosa, alguien atravesando una experiencia incómoda o una posible violación de este Código, incluso si parece menor.\n\n\n\n\n\n\n\nImportante\n\n\n\nEl acoso incluye, entre otros: insultos directos o indirectos; daño verbal o escrito por motivos de género, orientación sexual, raza, religión o discapacidad; uso inapropiado de imágenes de desnudez (incluso en presentaciones); intimidación deliberada, acecho, persecución; fotografías o grabaciones abusivas; interrupciones sostenidas en presentaciones u otros eventos; contacto físico inapropiado y atención sexual no deseada.\n\n\nQuienes violen estas reglas podrían ser sancionados o expulsados del grupo. Si se te pide que detengas un comportamiento considerado inapropiado, esperamos que lo hagas de inmediato.\nApreciamos los comentarios y críticas constructivas: las experiencias y habilidades diversas enriquecen nuestras actividades. Fomentamos un entorno donde todas las personas puedan participar y generar un impacto positivo."
+  },
+  {
+    "objectID": "coc.html#aplicación-del-código-de-conducta",
+    "href": "coc.html#aplicación-del-código-de-conducta",
+    "title": "Código de Conducta",
+    "section": "Aplicación del Código de Conducta",
+    "text": "Aplicación del Código de Conducta\nEste Código será aplicado por el equipo organizador, que será diverso y tendrá autoridad para resolver disputas. En los eventos presenciales habrá al menos una persona designada para su implementación, que podrá no ser parte del grupo organizador si no hay disponibilidad. En caso de que una disputa involucre a alguien del equipo responsable, esa persona se apartará del proceso de toma de decisiones."
+  },
+  {
+    "objectID": "blog/2019-11-17-usethis-humedales/2019-11-17-usethis-humedales.html",
+    "href": "blog/2019-11-17-usethis-humedales/2019-11-17-usethis-humedales.html",
+    "title": "Pull requests con usethis (Mauro Lepore) + Prediciendo Humedales (Priscilla Minotti)",
+    "section": "",
+    "text": "En R en Buenos Aires celebramos Halloween con un encuentro espectacular.\nPrimero, Mauro Lepore nos compartió un flujo de trabajo súper sencillo para colaborar con el código de otras personas, ya sean paquetes de R que usás, o análisis de datos colaborativos. Moraleja: aprender usethis.\n\n\n\nMauro Lepore nos enseñó a usar usethis para contribuir al código de otras personas usando git.\n\n\nMauro nos enseñó a usar usethis para contribuir al código de otras personas usando git. Pueden encontrar todos los materiales de su charla en este documento, inluyendo la presentación, el código y un video paso a paso.\nTuvimos un interludio en el cual saludamos a Pachá por teleconferencia. Por la delicada situación de Chile, lamentablemente no pudo estar presente en carne y hueso.\n\n\n\nPachá nos saluda desde Chile\n\n\nFinalmente, Priscilla Minoti presentó su trabajo detectando humedales a partir de preidictores espaciales. Es una historia que abarcó más de 10 años de código, versiones de R y código abierto.\n\n\n\nPriscilla Minoti contando su historia de humedales\n\n\nSi te lo perdiste en vivo, el video de todas las charlas está en youtube.\n\n\n\nComo siempre, gracias a los genios de Medallia por brindarnos el espacio y una picada increíble."
+  },
+  {
+    "objectID": "blog/2018-12-17-taller-blogdown/2018-12-17-taller-blogdown.html",
+    "href": "blog/2018-12-17-taller-blogdown/2018-12-17-taller-blogdown.html",
+    "title": "Primer encuentro - Taller de blogdown",
+    "section": "",
+    "text": "El martes 3 de diciembre tuvimos nuestro primer encuentro, que también fue el último encuentro de R-Ladies Buenos Aires. Estamos muy contentos con la excelente convocatoria y gracias a todes por haber venido!\n\n\n\nSala llena en Medalia Foto gracias a Florencia\n\n\nPrimero, Laura Ación hizo un resumen de todas las actividades y logros de R-Ladies Buenos Aires.\n\n\n\nLaura Ación presenta el cierre del año de R Ladies Buenos Aires\n\n\nDespués, Diego Kozlowski presentó R en Buenos Aires y Victoria ODonnell hizo un tour por nuestro Slack para que los que nunca lo usaron se sientan como en casa.\n\n\n\nDiego Kozlowski explicando qué es R en Buenos Aires y con qué se come. Foto gracias a Natsu\n\n\nFinalmente, Paola Corrales y Elio Campitelli lideraron un taller de blogdown. Remando los inevitables problemas técnicos entre todes, les asistentes se llevaron el know-how para hacer su propio sitio web con R.\n\n\n\nPaola Corrales contando cómo creó una página web personal porque estaba aburrida y quería aprender a hacerlo\n\n\nPara quienes no hayan podido ir, el video de todo el encuentro está disponible en youtube y los materiales para seguir el taller, en este repositorio.\n\n\n\nGracias a los genios de Medallia por brindarnos el espacio y una picada increíble."
+  },
+  {
+    "objectID": "actividades.html",
+    "href": "actividades.html",
+    "title": "Actividades",
+    "section": "",
+    "text": "Todos el historial de eventos y próximas actividades de R en Buenos Aires se encuentran registrados en  Meetup.com. Y los materiales están disponibles en el repositorio del capítulo en  GitHub"
+  },
+  {
+    "objectID": "actividades.html#dónde-seguir-nuestras-actividades",
+    "href": "actividades.html#dónde-seguir-nuestras-actividades",
+    "title": "Actividades",
+    "section": "",
+    "text": "Todos el historial de eventos y próximas actividades de R en Buenos Aires se encuentran registrados en  Meetup.com. Y los materiales están disponibles en el repositorio del capítulo en  GitHub"
+  },
+  {
+    "objectID": "actividades.html#acá-encontrarás-todas-las-actividades-realizadas-desde-2024-a-la-fecha",
+    "href": "actividades.html#acá-encontrarás-todas-las-actividades-realizadas-desde-2024-a-la-fecha",
+    "title": "Actividades",
+    "section": "Acá encontrarás todas las actividades realizadas desde 2024 a la fecha",
+    "text": "Acá encontrarás todas las actividades realizadas desde 2024 a la fecha\n\n\n\nFecha\nNombre del Evento\nLugar\nMateriales\n\n\n\n\n2025-07-30\nClub de libro Mastering Shiny - Encuentro 10\nvirtual\nMateriales\n\n\n2025-07-16\nClub de libro Mastering Shiny - Encuentro 9\nvirtual\nMateriales\n\n\n2025-06-25\nClub de libro Mastering Shiny - Encuentro 8\nvirtual\nPresentación\n\n\n2025-06-24\n¡Miércoles, Git! Manejo de errores en Git y no morir en el intento\nvirtual\nPresentación\n\n\n2025-06-11\nClub de libro Mastering Shiny - Encuentro 7\nvirtual\nMateriales\n\n\n2025-05-28\nClub de libro Mastering Shiny - Encuentro 6\nvirtual\nPresentación\n\n\n2025-05-14\nClub de libro Mastering Shiny - Encuentro 5\nvirtual\nRepositorio\n\n\n2025-04-30\nClub de libro Mastering Shiny - Encuentro 4\nvirtual\nPresentación\n\n\n2025-04-16\nClub de libro Mastering Shiny - Encuentro 3\nvirtual\nRepositorio\n\n\n2025-03-19\nClub de libro Mastering Shiny - Encuentro 2\nvirtual\nPresentación\n\n\n2025-03-05\nClub de libro Mastering Shiny - Encuentro 1\nvirtual\nPresentacion\n\n\n2024-12-20\nR en Red: ARcenso, Oportunidades y Comunidad\nCasona Humahuaca\nRepositorio\n\n\n2024-12-02\nBig data, medios digitales y autogestión: cómo trabajar con millones de noticias\nUFLO\nRepositorio\n\n\n2024-10-29\nR para la demografía social: un taller aplicado a la EPH\nUnLAM\nwebsite"
+  },
+  {
+    "objectID": "blog/2019-04-29-datos-miercoles-salud/2019-04-29-datosdemiercoles-toma-deciciones-salud.html",
+    "href": "blog/2019-04-29-datos-miercoles-salud/2019-04-29-datosdemiercoles-toma-deciciones-salud.html",
+    "title": "DatosDeMiércoles y Toma de decisiones en salud en nuestro meetup de abril 2019",
+    "section": "",
+    "text": "¿Qué mejor que el mes de abril para abrir con el primer encuentro del año? Antes de salir a comprar las roscas de pascua, organizamos un meetup donde tuvimos el lujo de presentar una nueva iniciativa de la comundiad de R y una charla interesantísima sobre la experiencia de usar R en un ámbito lleno de excel-lovers. Gracias a todes por haber venido!\n Salón lleno en Medallia. Foto gracias a Guada\nLa primer charla estuvo a cargo de Julio Spairani, quién presentó #DatosDeMiércoles. Es la versión en español de #TidyTuesday y es un espacio para practicar análisis de datos entre todes.\n\n\n\nJulio Spairani presenta #DatosDeMiércoles\n\n\n\nJulio Spairani presenta #DatosDeMiércoles. “Dejá de ser acumulador o amarrete y empezá a compartir”\n\nEn la segunda charla, Natalie Soto contó su historia de aplicación de R en la toma de decisiones en salud, donde la herramienta principal ¡es Excel 😱️! ¿Cómo hacer para evangelizar R en un lugar lleno de excel? “Hay que usarlo cuando uno tiene la oportunidad de usarlo. Ayuda mostrar los resultados. Ahora es indiscutible que hay que usar R”.\n\n\n\nNatalie Soto explica cómo se evalúan económicamente las intervenciones en salud\n\n\nNatalie Soto explica cómo se evalúan económicamente las intervenciones en salud. Foto gracias a Marilina\nSi te lo perdiste en vivo, el video de todas las charlas está en youtube.\n\n\n\nComo siempre, gracias a los genios de Medallia por brindarnos el espacio y una picada increíble."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Pull requests con usethis (Mauro Lepore) + Prediciendo Humedales (Priscilla Minotti)\n\n\nTuvimos un encuentro de Noche de Brujas donde Mauro Lepore nos hizo una visita guiada por algunas funciones del paquete usethis y Priscilla Minotti nos contó una historia…\n\n\n\n\n\n\n31 oct 2019\n\n\n\n\n\n\n\n\n\n\n\n\nDatosDeMiércoles y Toma de decisiones en salud en nuestro meetup de abril 2019\n\n\nEn el primer meetup de 2019 Julio Spairani presentó la iniciativa de #DatosDeMiércoles para practicar análisis y visualización de datos en comunidad y Natalie Soto contó su…\n\n\n\n\n\n\n16 abr 2019\n\n\n\n\n\n\n\n\n\n\n\n\nPrimer encuentro - Taller de blogdown\n\n\nNuestro primer encuentro fue también el último encuentro del año de R-Ladies Buenos Aires. Aprendimos a crear una página web desde R con blogdown!\n\n\n\n\n\n\n3 dic 2018\n\n\n\n\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "comunidades.html",
+    "href": "comunidades.html",
+    "title": "Nuestra Red",
+    "section": "",
+    "text": "La red de R en Buenos Aires se sostiene gracias al apoyo de comunidades amigas, organizaciones e instituciones que creen en el valor del trabajo colectivo. Juntes impulsamos actividades, generamos espacios de encuentro y promovemos el uso de software libre como una forma de abrir oportunidades y acercar el conocimiento a más personas.\nMuchas universidades y organizaciones nos prestan aulas y espacios para realizar talleres y encuentros sin costo, algo fundamental porque el trabajo en esta comunidad es 100% voluntario. Ese acompañamiento permite que más personas puedan participar, aprender y ser parte, sin barreras.\nAsí seguimos construyendo una comunidad activa, abierta y con ganas de seguir creciendo compartiendo lo que sabemos."
+  },
+  {
+    "objectID": "comunidades.html#comunidades-amigas",
+    "href": "comunidades.html#comunidades-amigas",
+    "title": "Nuestra Red",
+    "section": "Comunidades amigas",
+    "text": "Comunidades amigas\nEspacios con los que compartimos afinidad, intereses y actividades. Nos apoyamos mutuamente, coorganizamos eventos y aprendemos colectivavmente.\n\n\n🔗 R-Ladies Buenos Aires\n\n\n\nR-Ladies Buenos Aires\n\n\n\n🔗 R-Ladies Santa Rosa\n\n\n\nR-Ladies Santa Rosa\n\n\n\n\n\n\n🔗 LatinR\n\n\n\nLatinR"
+  },
+  {
+    "objectID": "comunidades.html#organizaciones-aliadas",
+    "href": "comunidades.html#organizaciones-aliadas",
+    "title": "Nuestra Red",
+    "section": "Organizaciones aliadas",
+    "text": "Organizaciones aliadas\nProyectos, colectivos y grupos que colaboran con iniciativas concretas, difusión, recursos técnicos o actividades conjuntas. Su participación potencia el crecimiento de la comunidad y amplifica nuestro alcance.\n\n\n🔗 rOpenSci\n\n\n\nrOpenSci\n\n\n\n🔗 Nucleo de Innovación Social - NIS\n\n\n\nNucleo de Innovación Social - NIS\n\n\n\n\n\n\n🔗 Estación R\n\n\n\nEstación R"
+  },
+  {
+    "objectID": "comunidades.html#instituciones-que-nos-acompañan",
+    "href": "comunidades.html#instituciones-que-nos-acompañan",
+    "title": "Nuestra Red",
+    "section": "Instituciones que nos acompañan",
+    "text": "Instituciones que nos acompañan\nUniversidades, centros de estudio u organismos que nos brindan espacios físicos, aulas o apoyo institucional para llevar adelante nuestras actividades. Su apoyo es clave para sostener una comunidad abierta, gratuita y colaborativa.\n\n\n🔗 Universidad de Flores\n\n\n\n\nUniversidad de Flores\n\n\n\n\n\n\n\n\n🔗 Universidad Nacional de la Matanza - Biblioteca Leopoldo Marechal - UNLAM"
+  },
+  {
+    "objectID": "quienes-somos.html",
+    "href": "quienes-somos.html",
+    "title": "Quiénes somos",
+    "section": "",
+    "text": "Reunión 20 de diciembre de 2024\nSomos la comunidad de R en Buenos Aires. Nuestro objetivo es construir un espacio inclusivo y activo que fomente la colaboración, el intercambio de conocimientos y la promoción del uso de R en diversas disciplinas.\nCreemos en el poder del trabajo colectivo, el aprendizaje mutuo y la importancia de crear un entorno respetuoso donde todas las voces sean bienvenidas.\nSi compartes nuestra pasión por R y la construcción de una comunidad abierta, no dudes en unirte a nosotros."
+  },
+  {
+    "objectID": "quienes-somos.html#misión",
+    "href": "quienes-somos.html#misión",
+    "title": "Quiénes somos",
+    "section": "Misión",
+    "text": "Misión\nEste grupo surge con la misión de conectar a quienes usan el lenguaje de programación R en la Ciudad de Buenos Aires, Argentina, independientemente de su grado de conocimiento y el ámbito de aplicación del mismo. Pretendemos promover el uso de R, apoyar el desarrollo de esta comunidad para compartir experiencias, promover el aprendizaje continuo y favorecer la creación de proyectos interdisciplinarios."
+  },
+  {
+    "objectID": "quienes-somos.html#visión",
+    "href": "quienes-somos.html#visión",
+    "title": "Quiénes somos",
+    "section": "Visión",
+    "text": "Visión\nCreamos esta comunidad con el ideal de brindar un espacio social activo e inclusivo donde se promueva el trabajo colaborativo y constructivo, compartiendo conocimientos e intercambiando opiniones en forma respetuosa y con la finalidad común de ampliar y promover el uso de R en diversas disciplinas."
+  },
+  {
+    "objectID": "quienes-somos.html#objetivos",
+    "href": "quienes-somos.html#objetivos",
+    "title": "Quiénes somos",
+    "section": "Objetivos",
+    "text": "Objetivos\n\nFomentar el uso del lenguaje de programación R en todas sus vertientes y ámbitos de aplicación, de manera colaborativa, mediante la enseñanza y el aprendizaje continuo.\nFacilitar el intercambio de enfoques, técnicas de programación y uso general de R mediante la realización periódica de reuniones presenciales y/o virtuales y el uso de los distintos canales de comunicación, permitiendo la integración de personas con intereses en R complementarios.\nParticipar en la creciente comunidad global de R, tendiendo puentes entre la comunidad nacional e internacional, mediante los diferentes canales de comunicación existentes, y la asistencia a reuniones y/o congresos a nivel nacional e internacional.\nImpulsar y ejecutar proyectos de análisis de datos con R que ayuden a la construcción de conocimiento y promoviendo buenas prácticas en el análisis de datos.\nOrganizar, patrocinar y promover cursos, congresos o reuniones para divulgar el uso de R, impartir conocimiento y mostrar los avances y resultados obtenidos mediante su aplicación.\nExpandir la base de conocimientos para hacerla accesible en idioma español. Los datos y los análisis de datos son una forma de conocimiento.\nContribuir activamente al desarrollo de herramientas de R como modo de aprendizaje y de participación en la comunidad global."
+  }
+]

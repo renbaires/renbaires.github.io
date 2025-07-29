@@ -1,0 +1,25 @@
+/* Fondo general para TODAS las páginas */
+
+body {
+  background-image: url("image/back4.png");
+  background-size: cover;
+  background-repeat: repeat-y;
+  background-position: center;
+}
+
+
+.info-card {
+  font-size: 1.2rem;
+  border-radius: 20px;
+}
+
+a {
+  color: #CD5C74;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+a:hover {
+  color: #a9445a;
+  text-decoration: underline;
+}
