@@ -1,0 +1,17 @@
+---
+title: "Blog"
+listing:
+  contents: blog
+  sort: "date desc"
+  type: grid
+  image-align: left
+  max-description-length: 175
+  date-format: medium
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+format:
+  html:
+    css: titulo.css
+---

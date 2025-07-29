@@ -1,0 +1,47 @@
+---
+title: "Código de Conducta"
+author: "Equipo Organizador"
+format:
+  html:
+    css: titulo.css
+editor: visual
+---
+
+> **Queremos que R en Buenos Aires sea un grupo libre de acoso.**
+
+La comunidad de R en Buenos Aires, incluyendo su equipo organizador, debe conocer y seguir este Código de Conducta (basado en el de R Community). Su objetivo es fomentar el crecimiento de la comunidad en un entorno amigable y respetuoso.
+
+Este Código se aplica a todos los espacios de participación de R en Buenos Aires —como reuniones, redes sociales, Slack y listas de correo— tanto presenciales como virtuales. También rige para quienes actúan en representación del grupo, incluso fuera de estos espacios.
+
+## Comportamiento esperado
+
+
+Esperamos que en todos los espacios de participación de R en Buenos Aires como conferencias, charlas, talleres, fiestas, reuniones, redes sociales y otros entornos digitales se mantenga una actitud respetuosa, colaborativa y atenta. Algunas pautas de comportamiento incluyen:
+
+
+- Respetar y reconocer los aportes de otras personas.
+
+- Ser amable al expresar desacuerdos.
+
+- Mantener un discurso y acciones considerados y respetuosos.
+
+- Colaborar activamente para prevenir conflictos.
+
+- Estar atento/a al entorno y a quienes lo rodean.
+
+- Informar al equipo organizador si se observa una situación riesgosa, alguien atravesando una experiencia incómoda o una posible violación de este Código, incluso si parece menor.
+
+
+::: callout-important
+El acoso incluye, entre otros: insultos directos o indirectos; daño verbal o escrito por motivos de género, orientación sexual, raza, religión o discapacidad; uso inapropiado de imágenes de desnudez (incluso en presentaciones); intimidación deliberada, acecho, persecución; fotografías o grabaciones abusivas; interrupciones sostenidas en presentaciones u otros eventos; contacto físico inapropiado y atención sexual no deseada.
+:::
+
+Quienes violen estas reglas podrían ser sancionados o expulsados del grupo. Si se te pide que detengas un comportamiento considerado inapropiado, esperamos que lo hagas de inmediato.
+
+Apreciamos los comentarios y críticas constructivas: las experiencias y habilidades diversas enriquecen nuestras actividades. Fomentamos un entorno donde todas las personas puedan participar y generar un impacto positivo.
+
+## Aplicación del Código de Conducta
+
+Este Código será aplicado por el equipo organizador, que será diverso y tendrá autoridad para resolver disputas. En los eventos presenciales habrá al menos una persona designada para su implementación, que podrá no ser parte del grupo organizador si no hay disponibilidad. En caso de que una disputa involucre a alguien del equipo responsable, esa persona se apartará del proceso de toma de decisiones.
+
+

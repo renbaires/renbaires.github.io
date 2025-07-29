@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+  
+  
+execute:
+  freeze: true
+  
+lang: es
+  
+website:
+  title: "R en Buenos Aires"
+  favicon: image/BA-1.png
+  
+
+  navbar:
+    logo: image/BA-1.png
+    right: 
+      - href: index.qmd
+        text: Bienvenida
+      - href: actividades.qmd
+        text: "Actividades"
+      - href: quienes-somos.qmd
+        text: "Quiénes Somos"
+      - href: comunidades.qmd
+        text: "Nuestra Red"
+      - href: coc.qmd
+        text: "Código de Conducta"
+      - href: r-consortium.qmd
+        text: "R consortium"
+      - text: "Blog"
+        href: blog.qmd
+  page-footer:
+    left: "© 2025 Equipo organizador. Todos los derechos reservados."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

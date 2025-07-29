@@ -1,0 +1,99 @@
+---
+title: "Nuestra Red"
+format:
+  html:
+    css: titulo.css
+---
+
+La red de R en Buenos Aires se sostiene gracias al apoyo de comunidades amigas, organizaciones e instituciones que creen en el valor del trabajo colectivo. Juntes impulsamos actividades, generamos espacios de encuentro y promovemos el uso de software libre como una forma de abrir oportunidades y acercar el conocimiento a más personas.
+
+Muchas universidades y organizaciones nos prestan aulas y espacios para realizar talleres y encuentros sin costo, algo fundamental porque **el trabajo en esta comunidad es 100% voluntario.** Ese acompañamiento permite que más personas puedan participar, aprender y ser parte, sin barreras.
+
+Así seguimos construyendo una comunidad activa, abierta y con ganas de seguir creciendo compartiendo lo que sabemos.
+
+## Comunidades amigas
+
+Espacios con los que compartimos afinidad, intereses y actividades. Nos apoyamos mutuamente, coorganizamos eventos y aprendemos colectivavmente.
+
+::::: columns
+::: {.column width="50%"}
+[🔗 R-Ladies Buenos Aires](https://github.com/RLadies-BA)
+
+![R-Ladies Buenos Aires](https://avatars.githubusercontent.com/u/38664570?s=200&v=4){width="60%"}
+:::
+
+::: {.column width="50%"}
+[🔗 R-Ladies Santa Rosa](https://www.meetup.com/rladies-santa-rosa/A)
+
+![R-Ladies Santa Rosa](image/rladies.png){width="50%"}
+:::
+:::::
+
+::::: columns
+::: {.column width="50%"}
+[🔗 LatinR](https://github.com/LatinR)
+
+![LatinR](https://github.com/LatinR/identidad-visual-latinR/blob/master/LatinR_hex_principal.png?raw=true){width="45%"}
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+<br> <br>
+
+## Organizaciones aliadas
+
+Proyectos, colectivos y grupos que colaboran con iniciativas concretas, difusión, recursos técnicos o actividades conjuntas. Su participación potencia el crecimiento de la comunidad y amplifica nuestro alcance.
+
+::::: columns
+::: {.column width="50%"}
+[🔗 rOpenSci](https://ropensci.org/)
+
+![rOpenSci](https://raw.githubusercontent.com/ropensci/logos/master/stickers/blue_short_hexsticker.png){width="45%"}
+:::
+
+::: {.column width="50%"}
+[🔗 Nucleo de Innovación Social - NIS](https://nucleodeinnovacionsocial.com.ar/)
+
+![Nucleo de Innovación Social - NIS](image/NIShex.png){width="45%"}
+:::
+:::::
+
+::::: columns
+::: {.column width="50%"}
+[🔗 Estación R](https://ropensci.org/)
+
+![Estación R](image/estacionr.png){width="100%"}
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Instituciones que nos acompañan
+
+Universidades, centros de estudio u organismos que nos brindan espacios físicos, aulas o apoyo institucional para llevar adelante nuestras actividades. Su apoyo es clave para sostener una comunidad abierta, gratuita y colaborativa.
+
+::::: columns
+::: {.column width="50%"}
+[🔗 Universidad de Flores](https://www.uflouniversidad.edu.ar/)
+
+<br>
+
+![Universidad de Flores](image/uflo.png){width="50%"}
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+:::: columns
+::: {.column width="100%"}
+[🔗 Universidad Nacional de la Matanza - Biblioteca Leopoldo Marechal - UNLAM](https://www.unlam.edu.ar/)
+
+<br>
+
+![Biblioteca Leopoldo Marechal - UNLAM](image/bibliotecaunlam.png){width="30%"} ![Universidad Nacional de la Matanza](image/unlam.png)
+:::
+::::

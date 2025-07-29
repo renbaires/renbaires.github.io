@@ -1,0 +1,32 @@
+---
+title: "R en Buenos Aires"
+subtitle: "Grupo de usuaries de R"
+about:
+  template: jolla
+  image: image/BA-1.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/renbaires
+    - icon: slack
+      text: Sumate a nuestro canal de slack 
+      href: https://join.slack.com/t/r-buenosaires/shared_invite/zt-39hdkpq76-5dL_lHyzUQSqjr17tRMGCQ
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/company/r-en-buenos-aires/
+    - icon: youtube
+      href: https://www.youtube.com/@renbaires 
+      text: Canal de youtube
+    - icon: twitter-x
+      href: https://x.com/renbaires
+    - icon: instagram
+      href: https://www.instagram.com/renbuenosaires?igsh=Y3gwMnB3YmozeXl3
+    - icon: r-project
+      text: R User Group
+      href: https://www.meetup.com/pro/r-user-groups/
+format:
+  html:
+    toc: FALSE 
+    css: titulo.css
+---
+
