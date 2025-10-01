@@ -17,10 +17,14 @@ Todos el historial de eventos y próximas actividades de **R en Buenos Aires** s
 
 | Fecha | Nombre del Evento | Lugar | Materiales |
 |------------------|------------------|------------------|------------------|
-| 2025-07-30 | Club de libro Mastering Shiny - Encuentro 10 | virtual | Materiales |
+| 2025-09-30 | Procesando datos censales en R | UnLAM | [Repositorio](https://github.com/SoyAndrea/arcenso-unlam) |
+| 2025-09-27 | Nerdearla - lightning talk | CCKonex | [Presentación](https://www.youtube.com/live/Gh7DNUjx154?si=jX7jqfzHc72Rqdlk&t=2365) |
+| 2025-08-36 | Funciones a toda máquina: Potenciando R con funciones en C++ | virtual | [Grabación](https://youtu.be/F1Qd1tiiieM?si=1fbG0xi3aQCDDQnt) |
+| 2025-08-21 | Funciones en R Base: Con paciencia y mucho coraje | virtual | [Grabación](https://youtu.be/nF_l-lDXEto?si=x_7oJN4WbQBR1dzx) |
+| 2025-07-30 | Club de libro Mastering Shiny - Encuentro 10 | virtual | [Repositorio](https://github.com/SoyAndrea/shiny-modules) |
 | 2025-07-16 | Club de libro Mastering Shiny - Encuentro 9 | virtual | [Materiales](https://github.com/renbaires/mastering-shiny/tree/main/2025-07-16_Encuentro9) |
 | 2025-06-25 | Club de libro Mastering Shiny - Encuentro 8 | virtual | [Presentación](https://jformoso.github.io/tidy-evaluation-rladiesBA/#/title-slide) |
-| 2025-06-24 | ¡Miércoles, Git! Manejo de errores en Git y no morir en el intento | virtual | Presentación |
+| 2025-06-24 | ¡Miércoles, Git! Manejo de errores en Git y no morir en el intento | virtual | [Grabación](https://www.youtube.com/watch?v=1tGk_K9oKSs) |
 | 2025-06-11 | Club de libro Mastering Shiny - Encuentro 7 | virtual | [Materiales](https://github.com/RLadies-BA/mastering-shiny/tree/main/2025-06-11_Encuentro7) |
 | 2025-05-28 | Club de libro Mastering Shiny - Encuentro 6 | virtual | [Presentación](https://rpubs.com/GraBellotti/1316283) |
 | 2025-05-14 | Club de libro Mastering Shiny - Encuentro 5 | virtual | [Repositorio](https://github.com/ariibard/renbuenosaires_shiny_book_club_5) |

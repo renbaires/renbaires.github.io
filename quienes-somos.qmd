@@ -14,6 +14,40 @@ Creemos en el poder del trabajo colectivo, el aprendizaje mutuo y la importancia
 
 Si compartes nuestra pasión por R y la construcción de una comunidad abierta, no dudes en unirte a nosotros.
 
+# Equipo
+
+El corazón de R en Buenos Aires está en su comunidad, pero nada sería posible sin el esfuerzo y compromiso de quienes organizan y colaboran activamente para que cada evento y proyecto cobre vida.
+
+### Organizadoras
+
+::::: columns
+::: {.column width="50%"}
+![](https://avatars.githubusercontent.com/u/45582182?v=4){width="50%" style="border-radius: 80%;"}
+
+[**Andrea Gomez Vargas**](https://github.com/SoyAndrea)
+:::
+
+::: {.column width="50%"}
+![](image/Ariana.jpeg){width="50%" style="border-radius: 80%;"}
+
+[**Ariana Bardauil**](https://github.com/ariibard)
+:::
+:::::
+
+### Colaboradores
+
+::::: columns
+::: {.column width="50%"}
+![](https://avatars.githubusercontent.com/u/64991969?v=4){width="50%" style="border-radius: 80%;"}
+
+[**Emanuel Ciardullo**](https://github.com/ECiardullo)
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+
 ## Misión
 
 Este grupo surge con la misión de conectar a quienes usan el lenguaje de programación R en la Ciudad de Buenos Aires, Argentina, independientemente de su grado de conocimiento y el ámbito de aplicación del mismo. Pretendemos promover el uso de R, apoyar el desarrollo de esta comunidad para compartir experiencias, promover el aprendizaje continuo y favorecer la creación de proyectos interdisciplinarios.
@@ -38,38 +72,6 @@ Creamos esta comunidad con el ideal de brindar un espacio social activo e inclus
 
 7.  Contribuir activamente al desarrollo de herramientas de R como modo de aprendizaje y de participación en la comunidad global.
 
-# Equipo
-
-El corazón de R en Buenos Aires está en su comunidad, pero nada sería posible sin el esfuerzo y compromiso de quienes organizan y colaboran activamente para que cada evento y proyecto cobre vida.
-
-### Organizadoras
-
-::: columns
-::: {.column width="50%"}
-![](https://avatars.githubusercontent.com/u/45582182?v=4){width="50%" style="border-radius: 80%;"}
-
-[**Andrea Gomez Vargas**](https://github.com/SoyAndrea)
-:::
-
-::: {.column width="50%"}
-![](image/Ariana.jpeg){width="50%" style="border-radius: 80%;"}
-
-[**Ariana Bardauil**](https://github.com/ariibard)
-:::
-:::
-
-### Colaboradores
-
-::: columns
-::: {.column width="50%"}
-![](https://avatars.githubusercontent.com/u/64991969?v=4){width="50%" style="border-radius: 80%;"}
-
-[**Emanuel Ciardullo**](https://github.com/ECiardullo)
-:::
-
-::: {.column width="50%"}
-:::
-:::
 
 ::: hex-card
 # Hex
