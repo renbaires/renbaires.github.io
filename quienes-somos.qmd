@@ -14,38 +14,37 @@ Creemos en el poder del trabajo colectivo, el aprendizaje mutuo y la importancia
 
 Si compartes nuestra pasión por R y la construcción de una comunidad abierta, no dudes en unirte a nosotros.
 
-# Equipo
+# Equipo Organizador
 
 El corazón de R en Buenos Aires está en su comunidad, pero nada sería posible sin el esfuerzo y compromiso de quienes organizan y colaboran activamente para que cada evento y proyecto cobre vida.
 
-### Organizadoras
+::: hex-card
 
-::::: columns
-::: {.column width="50%"}
+### Andrea Gomez Vargas
+
 ![](https://avatars.githubusercontent.com/u/45582182?v=4){width="50%" style="border-radius: 80%;"}
 
-[**Andrea Gomez Vargas**](https://github.com/SoyAndrea)
+[**GitHub**](https://github.com/SoyAndrea)
 :::
 
-::: {.column width="50%"}
+::: hex-card
+
+### Ariana Bardauil
+
 ![](image/Ariana.jpeg){width="50%" style="border-radius: 80%;"}
 
-[**Ariana Bardauil**](https://github.com/ariibard)
+[**GitHub**](https://github.com/ariibard)
 :::
-:::::
 
-### Colaboradores
 
-::::: columns
-::: {.column width="50%"}
+::: hex-card
+
+### Emanuel Ciardullo
+
 ![](https://avatars.githubusercontent.com/u/64991969?v=4){width="50%" style="border-radius: 80%;"}
 
-[**Emanuel Ciardullo**](https://github.com/ECiardullo)
+[**GitHub**](https://github.com/ECiardullo)
 :::
-
-::: {.column width="50%"}
-:::
-:::::
 
 
 ## Misión
@@ -71,7 +70,6 @@ Creamos esta comunidad con el ideal de brindar un espacio social activo e inclus
 6.  Expandir la base de conocimientos para hacerla accesible en idioma español. Los datos y los análisis de datos son una forma de conocimiento.
 
 7.  Contribuir activamente al desarrollo de herramientas de R como modo de aprendizaje y de participación en la comunidad global.
-
 
 ::: hex-card
 # Hex

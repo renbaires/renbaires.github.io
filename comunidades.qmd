@@ -11,6 +11,66 @@ Muchas universidades y organizaciones nos prestan aulas y espacios para realizar
 
 Así seguimos construyendo una comunidad activa, abierta y con ganas de seguir creciendo compartiendo lo que sabemos.
 
+## Conferencias Aliadas
+
+Conferencias con las que colaboramos a través de charlas cortas, talleres o como community partners para difundir sus actividades. Estos vínculos fortalecen el intercambio y el trabajo conjunto entre comunidades.
+
+::::: columns
+::: {.column width="50%"}
+[🔗 Campus party Buenos Aires](https://argentina.campus-party.org/)
+
+![Campus party](image/campusparty.png){width="100%"}
+:::
+
+::: {.column width="50%"}
+[🔗 nerdear.la](https://nerdear.la/)
+
+<br>
+
+![Nerdearla](image/nerdearla.png){width="100%"}
+:::
+:::::
+
+::::: columns
+::: {.column width="50%"}
+[🔗 LatinR](https://github.com/LatinR)
+
+![LatinR](image/latinr.png){width="80%"}
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+## Organizaciones aliadas
+
+Proyectos, colectivos y grupos que colaboran con iniciativas concretas, difusión, recursos técnicos o actividades conjuntas. Su participación potencia el crecimiento de la comunidad y amplifica nuestro alcance.
+
+::::: columns
+::: {.column width="50%"}
+[🔗 rOpenSci](https://ropensci.org/)
+
+![rOpenSci](image/ropensci.png){width="80%"}
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+::::: columns
+::: {.column width="50%"}
+[🔗 Nucleo de Innovación Social - NIS](https://nucleodeinnovacionsocial.com.ar/)
+
+![Nucleo de Innovación Social - NIS](image/NIShex.png){width="40%"}
+:::
+
+::: {.column width="50%"}
+[🔗 Estación R](https://estacion-r.com/)
+
+![Estación R](image/estacionr.png){width="100%"}
+:::
+:::::
+
 ## Comunidades amigas
 
 Espacios con los que compartimos afinidad, intereses y actividades. Nos apoyamos mutuamente, coorganizamos eventos y aprendemos colectivavmente.
@@ -29,47 +89,7 @@ Espacios con los que compartimos afinidad, intereses y actividades. Nos apoyamos
 :::
 :::::
 
-::::: columns
-::: {.column width="50%"}
-[🔗 LatinR](https://github.com/LatinR)
-
-![LatinR](https://github.com/LatinR/identidad-visual-latinR/blob/master/LatinR_hex_principal.png?raw=true){width="45%"}
-:::
-
-::: {.column width="50%"}
-:::
-:::::
-
-<br> <br>
-
-## Organizaciones aliadas
-
-Proyectos, colectivos y grupos que colaboran con iniciativas concretas, difusión, recursos técnicos o actividades conjuntas. Su participación potencia el crecimiento de la comunidad y amplifica nuestro alcance.
-
-::::: columns
-::: {.column width="50%"}
-[🔗 rOpenSci](https://ropensci.org/)
-
-![rOpenSci](https://raw.githubusercontent.com/ropensci/logos/master/stickers/blue_short_hexsticker.png){width="45%"}
-:::
-
-::: {.column width="50%"}
-[🔗 Nucleo de Innovación Social - NIS](https://nucleodeinnovacionsocial.com.ar/)
-
-![Nucleo de Innovación Social - NIS](image/NIShex.png){width="45%"}
-:::
-:::::
-
-::::: columns
-::: {.column width="50%"}
-[🔗 Estación R](https://ropensci.org/)
-
-![Estación R](image/estacionr.png){width="100%"}
-:::
-
-::: {.column width="50%"}
-:::
-:::::
+<br>
 
 ## Instituciones que nos acompañan
 

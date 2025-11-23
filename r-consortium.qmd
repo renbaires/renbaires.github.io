@@ -10,15 +10,16 @@ editor: visual
 
 R en Buenos Aires es posible en parte gracias a la generosa ayuda de [R Consortium](https://www.r-consortium.org/) quienes nos brindan apoyo económico a través de [su programa](https://r-consortium.org/all-projects/rugsprogram.html) de apoyo a grupos locales.
 
+## Blogs con rconsortium
 
+### R en Buenos Aires: New Generations Working to Strengthen the Community
 
-## Blogs con rconsortium 
+<iframe src="https://r-consortium.org/posts/r-en-buenos-aires-new-generations-working-to-strengthen-the-community/" width="100%" height="400" style="border:none;" loading="lazy" sandbox="allow-same-origin allow-scripts allow-popups allow-forms">
 
-<iframe 
-  src="https://r-consortium.org/posts/r-en-buenos-aires-new-generations-working-to-strengthen-the-community/" 
-  width="100%" 
-  height="700" 
-  style="border:none;" 
-  loading="lazy" 
-  sandbox="allow-same-origin allow-scripts allow-popups allow-forms">
+</iframe>
+
+### Learning Shiny, Together: A Collaborative Reading Club Around Mastering Shiny in Buenos Aires
+
+<iframe src="https://r-consortium.org/posts/learning-shiny-together-a-collaborative-reading-club-around-mastering-shiny-in-buenos-aires/" width="100%" height="400" style="border:none;" loading="lazy" sandbox="allow-same-origin allow-scripts allow-popups allow-forms">
+
 </iframe>
