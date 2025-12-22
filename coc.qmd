@@ -17,9 +17,7 @@ Este Código se aplica a todos los espacios de participación de R en Buenos Air
 
 Esperamos que en todos los espacios de participación de R en Buenos Aires se mantenga una actitud respetuosa, colaborativa y considerada. Esto incluye conferencias, charlas, talleres, reuniones sociales, redes sociales y otros entornos digitales.
 
-
 Algunas pautas de comportamiento son:
-
 
 -   Reconocer y valorar los aportes de otras personas.
 
@@ -39,13 +37,11 @@ El acoso incluye, entre otros: insultos directos o indirectos; daño verbal o es
 
 Quienes incumplan estas reglas podrán ser sancionados o expulsados del grupo. Si se te pide que detengas un comportamiento considerado inapropiado, esperamos que lo hagas de inmediato.
 
-
 Valoramos los comentarios y las críticas constructivas: la diversidad de experiencias y habilidades enriquece nuestras actividades. Fomentamos un entorno en el que todas las personas puedan participar y generar un impacto positivo.
-
 
 ## ¿Querés comunicar una situación o pedir apoyo?
 
-Si algo no está bien, podés comunicarte con el [equipo coordinador](https://renbaires.github.io/quienes-somos.html#equipo) o escribirnos a renbaires@gmail.com
+Si algo no está bien, podés comunicarte con el [equipo organizador](https://renbaires.github.io/quienes-somos.html#equipo) o escribirnos a renbaires\@gmail.com
 
 Toda comunicación será tratada con absoluta discreción y cuidado.
 

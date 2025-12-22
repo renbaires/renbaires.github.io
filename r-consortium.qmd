@@ -12,14 +12,20 @@ R en Buenos Aires es posible en parte gracias a la generosa ayuda de [R Consorti
 
 ## Blogs con rconsortium
 
-### R en Buenos Aires: New Generations Working to Strengthen the Community
+### 2025
+
+#### Learning Shiny, Together: A Collaborative Reading Club Around Mastering Shiny in Buenos Aires
+
+<iframe src="https://r-consortium.org/posts/learning-shiny-together-a-collaborative-reading-club-around-mastering-shiny-in-buenos-aires/" width="100%" height="400" style="border:none;" loading="lazy" sandbox="allow-same-origin allow-scripts allow-popups allow-forms">
+
+</iframe>
+
+### 2024
+
+#### R en Buenos Aires: New Generations Working to Strengthen the Community
 
 <iframe src="https://r-consortium.org/posts/r-en-buenos-aires-new-generations-working-to-strengthen-the-community/" width="100%" height="400" style="border:none;" loading="lazy" sandbox="allow-same-origin allow-scripts allow-popups allow-forms">
 
 </iframe>
 
-### Learning Shiny, Together: A Collaborative Reading Club Around Mastering Shiny in Buenos Aires
 
-<iframe src="https://r-consortium.org/posts/learning-shiny-together-a-collaborative-reading-club-around-mastering-shiny-in-buenos-aires/" width="100%" height="400" style="border:none;" loading="lazy" sandbox="allow-same-origin allow-scripts allow-popups allow-forms">
-
-</iframe>
