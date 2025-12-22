@@ -6,7 +6,7 @@ format:
     css: titulo.css
 ---
 
-![Reunión 20 de diciembre de 2024](image/comunidad.jpg){width="50%"}
+![Encuentros presenciales R en Buenos Aires 2024 - 2025](image/portadaRenBA.png){width="100%"}
 
 Somos la comunidad de R en Buenos Aires. Nuestro objetivo es construir un espacio inclusivo y activo que fomente la colaboración, el intercambio de conocimientos y la promoción del uso de R en diversas disciplinas.
 
@@ -19,7 +19,6 @@ Si compartes nuestra pasión por R y la construcción de una comunidad abierta, 
 El corazón de R en Buenos Aires está en su comunidad, pero nada sería posible sin el esfuerzo y compromiso de quienes organizan y colaboran activamente para que cada evento y proyecto cobre vida.
 
 ::: hex-card
-
 ### Andrea Gomez Vargas
 
 ![](https://avatars.githubusercontent.com/u/45582182?v=4){width="50%" style="border-radius: 80%;"}
@@ -28,7 +27,6 @@ El corazón de R en Buenos Aires está en su comunidad, pero nada sería posible
 :::
 
 ::: hex-card
-
 ### Ariana Bardauil
 
 ![](image/Ariana.jpeg){width="50%" style="border-radius: 80%;"}
@@ -36,16 +34,13 @@ El corazón de R en Buenos Aires está en su comunidad, pero nada sería posible
 [**GitHub**](https://github.com/ariibard)
 :::
 
-
 ::: hex-card
-
 ### Emanuel Ciardullo
 
 ![](https://avatars.githubusercontent.com/u/64991969?v=4){width="50%" style="border-radius: 80%;"}
 
 [**GitHub**](https://github.com/ECiardullo)
 :::
-
 
 ## Misión
 
