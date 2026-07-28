@@ -4,7 +4,7 @@
     "href": "r-consortium.html",
     "title": "R consortium",
     "section": "",
-    "text": "R en Buenos Aires es posible en parte gracias a la generosa ayuda de R Consortium quienes nos brindan apoyo económico a través de su programa de apoyo a grupos locales."
+    "text": "R en Buenos Aires cuenta con el apoyo de R Consortium, que actualmente contribuye a la comunidad brindando acceso a Meetup para la organización y difusión de nuestros encuentros.\nDurante el período 2024–2025, R Consortium acompañó a R en Buenos Aires mediante su programa de apoyo a grupos locales(RUGS Grant), brindando financiamiento para el desarrollo y sostenimiento de distintas actividades de la comunidad local."
   },
   {
     "objectID": "r-consortium.html#blogs-con-rconsortium",
@@ -60,21 +60,21 @@
     "href": "actividades.html",
     "title": "Actividades",
     "section": "",
-    "text": "Todos el historial de eventos y próximas actividades de R en Buenos Aires se encuentran registrados en  Meetup.com. Y los materiales están disponibles en el repositorio del capítulo en  GitHub"
+    "text": "Todo el historial de eventos y próximas actividades de R en Buenos Aires se encuentran registrados en  Meetup.com. Y los materiales están disponibles en el repositorio del capítulo en  GitHub"
   },
   {
     "objectID": "actividades.html#dónde-seguir-nuestras-actividades",
     "href": "actividades.html#dónde-seguir-nuestras-actividades",
     "title": "Actividades",
     "section": "",
-    "text": "Todos el historial de eventos y próximas actividades de R en Buenos Aires se encuentran registrados en  Meetup.com. Y los materiales están disponibles en el repositorio del capítulo en  GitHub"
+    "text": "Todo el historial de eventos y próximas actividades de R en Buenos Aires se encuentran registrados en  Meetup.com. Y los materiales están disponibles en el repositorio del capítulo en  GitHub"
   },
   {
     "objectID": "actividades.html#acá-encontrarás-todas-las-actividades-realizadas-desde-2024-a-la-fecha",
     "href": "actividades.html#acá-encontrarás-todas-las-actividades-realizadas-desde-2024-a-la-fecha",
     "title": "Actividades",
     "section": "Acá encontrarás todas las actividades realizadas desde 2024 a la fecha",
-    "text": "Acá encontrarás todas las actividades realizadas desde 2024 a la fecha\n\n\n\nFecha\nNombre del Evento\nLugar\nMateriales\n\n\n\n\n2026-03-19\nArmá tu CV en Positron\nvirtual\nRepositorio\n\n\n2026-03-18\nEncuentro de Comunidades Informáticas\nUMET\nNota de prensa\n\n\n2026-03-11\nTejiendo redes en datos: empleabilidad y perfil profesional\nvirtual\nRepositorio\n\n\n2025-10-09\nBrindaR - cierre 2025 y charla sobre empleabilidad\nCasa Jache\nRepositorio\n\n\n2025-11-10\nCampus Party Argentina - R en acción: webscrapping con rvest\nCosta Salguero\nwebsite taller\n\n\n2025-10-09\nRSE en español\nvirtual\nGrabación\n\n\n2025-09-30\nProcesando datos censales en R\nUnLAM\nRepositorio\n\n\n2025-09-27\nNerdearla - lightning talk\nCCKonex\nPresentación\n\n\n2025-08-36\nFunciones a toda máquina: Potenciando R con funciones en C++\nvirtual\nGrabación\n\n\n2025-08-21\nFunciones en R Base: Con paciencia y mucho coraje\nvirtual\nGrabación\n\n\n2025-07-30\nClub de libro Mastering Shiny - Encuentro 10\nvirtual\nRepositorio\n\n\n2025-07-16\nClub de libro Mastering Shiny - Encuentro 9\nvirtual\nMateriales\n\n\n2025-06-25\nClub de libro Mastering Shiny - Encuentro 8\nvirtual\nPresentación\n\n\n2025-06-24\n¡Miércoles, Git! Manejo de errores en Git y no morir en el intento\nvirtual\nGrabación\n\n\n2025-06-11\nClub de libro Mastering Shiny - Encuentro 7\nvirtual\nMateriales\n\n\n2025-05-28\nClub de libro Mastering Shiny - Encuentro 6\nvirtual\nPresentación\n\n\n2025-05-14\nClub de libro Mastering Shiny - Encuentro 5\nvirtual\nRepositorio\n\n\n2025-04-30\nClub de libro Mastering Shiny - Encuentro 4\nvirtual\nPresentación\n\n\n2025-04-16\nClub de libro Mastering Shiny - Encuentro 3\nvirtual\nRepositorio\n\n\n2025-03-19\nClub de libro Mastering Shiny - Encuentro 2\nvirtual\nPresentación\n\n\n2025-03-05\nClub de libro Mastering Shiny - Encuentro 1\nvirtual\nPresentacion\n\n\n2024-12-20\nR en Red: ARcenso, Oportunidades y Comunidad\nCasona Humahuaca\nRepositorio\n\n\n2024-12-02\nBig data, medios digitales y autogestión: cómo trabajar con millones de noticias\nUFLO\nRepositorio\n\n\n2024-10-29\nR para la demografía social: un taller aplicado a la EPH\nUnLAM\nwebsite"
+    "text": "Acá encontrarás todas las actividades realizadas desde 2024 a la fecha\n\n\n\nFecha\nNombre del Evento\nLugar\nMateriales\n\n\n\n\n2026-03-19\nArmá tu CV en Positron\nvirtual\nRepositorio\n\n\n2026-03-18\nEncuentro de Comunidades Informáticas\nUMET\nNota de prensa\n\n\n2026-03-11\nTejiendo redes en datos: empleabilidad y perfil profesional\nvirtual\nRepositorio\n\n\n2025-11-27\nBrindaR - cierre 2025 y charla sobre empleabilidad\nCasa Jache\nRepositorio\n\n\n2025-11-10\nCampus Party Argentina - R en acción: webscrapping con rvest\nCosta Salguero\nwebsite taller\n\n\n2025-10-09\nRSE en español\nvirtual\nGrabación\n\n\n2025-09-30\nProcesando datos censales en R\nUnLAM\nRepositorio\n\n\n2025-09-27\nNerdearla - lightning talk\nCCKonex\nPresentación\n\n\n2025-08-26\nFunciones a toda máquina: Potenciando R con funciones en C++\nvirtual\nGrabación\n\n\n2025-08-21\nFunciones en R Base: Con paciencia y mucho coraje\nvirtual\nGrabación\n\n\n2025-07-30\nClub de libro Mastering Shiny - Encuentro 10\nvirtual\nRepositorio\n\n\n2025-07-16\nClub de libro Mastering Shiny - Encuentro 9\nvirtual\nMateriales\n\n\n2025-06-25\nClub de libro Mastering Shiny - Encuentro 8\nvirtual\nPresentación\n\n\n2025-06-24\n¡Miércoles, Git! Manejo de errores en Git y no morir en el intento\nvirtual\nGrabación\n\n\n2025-06-11\nClub de libro Mastering Shiny - Encuentro 7\nvirtual\nMateriales\n\n\n2025-05-28\nClub de libro Mastering Shiny - Encuentro 6\nvirtual\nPresentación\n\n\n2025-05-14\nClub de libro Mastering Shiny - Encuentro 5\nvirtual\nRepositorio\n\n\n2025-04-30\nClub de libro Mastering Shiny - Encuentro 4\nvirtual\nPresentación\n\n\n2025-04-16\nClub de libro Mastering Shiny - Encuentro 3\nvirtual\nRepositorio\n\n\n2025-03-19\nClub de libro Mastering Shiny - Encuentro 2\nvirtual\nPresentación\n\n\n2025-03-05\nClub de libro Mastering Shiny - Encuentro 1\nvirtual\nPresentacion\n\n\n2024-12-20\nR en Red: ARcenso, Oportunidades y Comunidad\nCasona Humahuaca\nRepositorio\n\n\n2024-12-02\nBig data, medios digitales y autogestión: cómo trabajar con millones de noticias\nUFLO\nRepositorio\n\n\n2024-10-29\nR para la demografía social: un taller aplicado a la EPH\nUnLAM\nwebsite"
   },
   {
     "objectID": "blog/2019-04-29-datos-miercoles-salud/2019-04-29-datosdemiercoles-toma-deciciones-salud.html",
@@ -93,28 +93,28 @@
   {
     "objectID": "comunidades.html",
     "href": "comunidades.html",
-    "title": "Nuestra Red",
+    "title": "Comunidadeds y alianzas",
     "section": "",
     "text": "La red de R en Buenos Aires se sostiene gracias al apoyo de comunidades amigas, organizaciones e instituciones que creen en el valor del trabajo colectivo. Juntes impulsamos actividades, generamos espacios de encuentro y promovemos el uso de software libre como una forma de abrir oportunidades y acercar el conocimiento a más personas.\nMuchas universidades y organizaciones nos prestan aulas y espacios para realizar talleres y encuentros sin costo, algo fundamental porque el trabajo en esta comunidad es 100% voluntario. Ese acompañamiento permite que más personas puedan participar, aprender y ser parte, sin barreras.\nAsí seguimos construyendo una comunidad activa, abierta y con ganas de seguir creciendo compartiendo lo que sabemos."
   },
   {
     "objectID": "comunidades.html#comunidades-amigas",
     "href": "comunidades.html#comunidades-amigas",
-    "title": "Nuestra Red",
+    "title": "Comunidadeds y alianzas",
     "section": "Comunidades amigas",
-    "text": "Comunidades amigas\nEspacios con los que compartimos afinidad, intereses y actividades. Nos apoyamos mutuamente, coorganizamos eventos y aprendemos colectivavmente.\n\n\n🔗 R-Ladies Buenos Aires\n\n\n\nR-Ladies Buenos Aires\n\n\n\n🔗 R-Ladies Santa Rosa\n\n\n\nR-Ladies Santa Rosa"
+    "text": "Comunidades amigas\nEspacios con los que compartimos afinidad, intereses y actividades. Nos apoyamos mutuamente, coorganizamos eventos y aprendemos colectivamente.\n\n\n🔗 R-Ladies Buenos Aires\n\n\n\nR-Ladies Buenos Aires\n\n\n\n🔗 R-Ladies Santa Rosa\n\n\n\nR-Ladies Santa Rosa"
   },
   {
     "objectID": "comunidades.html#organizaciones-aliadas",
     "href": "comunidades.html#organizaciones-aliadas",
-    "title": "Nuestra Red",
+    "title": "Comunidadeds y alianzas",
     "section": "Organizaciones aliadas",
     "text": "Organizaciones aliadas\nProyectos, colectivos y grupos que colaboran con iniciativas concretas, difusión, recursos técnicos o actividades conjuntas. Su participación potencia el crecimiento de la comunidad y amplifica nuestro alcance.\n\n\n🔗 rOpenSci\n\n\n\nrOpenSci\n\n\n\n\n\n\n\n\n🔗 Nucleo de Innovación Social - NIS\n\n\n\nNucleo de Innovación Social - NIS\n\n\n\n🔗 Estación R\n\n\n\nEstación R"
   },
   {
     "objectID": "comunidades.html#instituciones-que-nos-acompañan",
     "href": "comunidades.html#instituciones-que-nos-acompañan",
-    "title": "Nuestra Red",
+    "title": "Comunidadeds y alianzas",
     "section": "Instituciones que nos acompañan",
     "text": "Instituciones que nos acompañan\nUniversidades, centros de estudio u organismos que nos brindan espacios físicos, aulas o apoyo institucional para llevar adelante nuestras actividades. Su apoyo es clave para sostener una comunidad abierta, gratuita y colaborativa.\n\n\n🔗 Universidad de Flores\n\n\n\n\nUniversidad de Flores\n\n\n\n\n\n\n\n\n🔗 Universidad Nacional de la Matanza - Biblioteca Leopoldo Marechal - UNLAM"
   },
@@ -170,8 +170,36 @@
   {
     "objectID": "comunidades.html#conferencias-aliadas",
     "href": "comunidades.html#conferencias-aliadas",
-    "title": "Nuestra Red",
+    "title": "Comunidadeds y alianzas",
     "section": "Conferencias Aliadas",
     "text": "Conferencias Aliadas\nConferencias con las que colaboramos a través de charlas cortas, talleres o como community partners para difundir sus actividades. Estos vínculos fortalecen el intercambio y el trabajo conjunto entre comunidades.\n\n\n🔗 Campus party Buenos Aires\n\n\n\nCampus party\n\n\n\n🔗 nerdear.la\n\n\n\n\nNerdearla\n\n\n\n\n\n\n🔗 LatinR\n\n\n\nLatinR"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "R en Buenos Aires",
+    "section": "",
+    "text": "Con el apoyo de"
+  },
+  {
+    "objectID": "index.html#con-el-apoyo-de",
+    "href": "index.html#con-el-apoyo-de",
+    "title": "R en Buenos Aires",
+    "section": "",
+    "text": "Con el apoyo de"
+  },
+  {
+    "objectID": "r-consortium.html#r-en-buenos-aires-en-el-blog-de-r-consortium",
+    "href": "r-consortium.html#r-en-buenos-aires-en-el-blog-de-r-consortium",
+    "title": "R consortium",
+    "section": "R en Buenos Aires en el blog de R Consortium",
+    "text": "R en Buenos Aires en el blog de R Consortium\n\n2025\n\nLearning Shiny, Together: A Collaborative Reading Club Around Mastering Shiny in Buenos Aires\n\n\n\n\n\n2024\n\nR en Buenos Aires: New Generations Working to Strengthen the Community"
+  },
+  {
+    "objectID": "posit.html",
+    "href": "posit.html",
+    "title": "Posit",
+    "section": "",
+    "text": "Logo Posit PBC\n\n\nR en Buenos Aires cuenta con el apoyo de Posit PBC a través de su Community Support Program, una iniciativa que acompaña a comunidades que promueven el aprendizaje, el intercambio y el uso de herramientas abiertas para trabajar con datos.\nDurante el período 2026–2027, Posit brinda apoyo económico a R en Buenos Aires para contribuir al desarrollo de sus actividades y al fortalecimiento de la comunidad local de personas usuarias de R."
   }
 ]

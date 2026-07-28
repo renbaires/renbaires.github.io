@@ -48,3 +48,40 @@ h1.title,
 }
 
 
+/* prueba */ 
+
+/* Links principales */
+.navbar-nav .nav-link {
+  color: #604ec2 !important;
+}
+
+/* Hover navbar */
+.navbar-nav .nav-link:hover {
+  color: #4d3db2 !important;
+}
+
+/* Menú abierto / activo */
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+  color: #604ec2 !important;
+  font-weight: 600;
+}
+
+/* Dropdown */
+.dropdown-item {
+  color: #604ec2 !important;
+}
+
+/* Hover oscuro */
+.dropdown-item:hover,
+.dropdown-item:focus {
+  color: #ffffff !important;
+  background-color: #604ec2 !important;
+}
+
+/* Activo */
+.dropdown-item.active {
+  color: #ffffff !important;
+  background-color: #4d3db2 !important;
+  font-weight: 600;
+}

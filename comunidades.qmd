@@ -1,5 +1,5 @@
 ---
-title: "Nuestra Red"
+title: "Comunidadeds y alianzas"
 format:
   html:
     css: titulo.css
@@ -73,7 +73,7 @@ Proyectos, colectivos y grupos que colaboran con iniciativas concretas, difusió
 
 ## Comunidades amigas
 
-Espacios con los que compartimos afinidad, intereses y actividades. Nos apoyamos mutuamente, coorganizamos eventos y aprendemos colectivavmente.
+Espacios con los que compartimos afinidad, intereses y actividades. Nos apoyamos mutuamente, coorganizamos eventos y aprendemos colectivamente.
 
 ::::: columns
 ::: {.column width="50%"}
