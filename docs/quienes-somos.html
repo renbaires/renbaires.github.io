@@ -2,17 +2,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Quiénes somos – R en Buenos Aires</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -37,10 +43,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-dfb324f25d9b1687192fa8be62ac8f9c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-172ba59bd5e0b52282274ba0c0cc16fc.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -55,7 +61,7 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "Sin resultados",
+    "search-no-results-text": "No se han encontrado resultados",
     "search-matching-documents-text": "documentos encontrados",
     "search-copy-link-title": "Copiar el enlace en la búsqueda",
     "search-hide-matches-text": "Ocultar resultados adicionales",
@@ -82,7 +88,8 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./image/BA-1.png" alt="" class="navbar-logo">
+    <img src="./image/BA-1.png" alt="" class="navbar-logo light-content">
+    <img src="./image/BA-1.png" alt="" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">R en Buenos Aires</span>
@@ -114,14 +121,25 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./actividades.html"> 
 <span class="menu-text">Actividades</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="./quienes-somos.html" aria-current="page"> 
-<span class="menu-text">Quiénes Somos</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-quiénes-somos" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Quiénes Somos</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-quiénes-somos">    
+        <li>
+    <a class="dropdown-item" href="./quienes-somos.html">
+ <span class="dropdown-text">Sobre la Comunidad</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./coc.html"> 
-<span class="menu-text">Código de Conducta</span></a>
+        <li>
+    <a class="dropdown-item" href="./equipo.html">
+ <span class="dropdown-text">Equipo organizador</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./hex.html">
+ <span class="dropdown-text">Nuestro Hex</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-nuestra-red" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Nuestra Red</span>
@@ -142,6 +160,10 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item">
+    <a class="nav-link" href="./coc.html"> 
+<span class="menu-text">Código de Conducta</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
@@ -161,16 +183,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">En esta página</h2>
    
   <ul>
-  <li><a href="#equipo-organizador" id="toc-equipo-organizador" class="nav-link active" data-scroll-target="#equipo-organizador">Equipo Organizador</a>
-  <ul class="collapse">
-  <li><a href="#andrea-gomez-vargas" id="toc-andrea-gomez-vargas" class="nav-link" data-scroll-target="#andrea-gomez-vargas">Andrea Gomez Vargas</a></li>
-  <li><a href="#ariana-bardauil" id="toc-ariana-bardauil" class="nav-link" data-scroll-target="#ariana-bardauil">Ariana Bardauil</a></li>
-  <li><a href="#emanuel-ciardullo" id="toc-emanuel-ciardullo" class="nav-link" data-scroll-target="#emanuel-ciardullo">Emanuel Ciardullo</a></li>
-  </ul></li>
-  <li><a href="#misión" id="toc-misión" class="nav-link" data-scroll-target="#misión">Misión</a></li>
+  <li><a href="#misión" id="toc-misión" class="nav-link active" data-scroll-target="#misión">Misión</a></li>
   <li><a href="#visión" id="toc-visión" class="nav-link" data-scroll-target="#visión">Visión</a></li>
   <li><a href="#objetivos" id="toc-objetivos" class="nav-link" data-scroll-target="#objetivos">Objetivos</a></li>
-  <li><a href="#hex" id="toc-hex" class="nav-link" data-scroll-target="#hex">Hex</a></li>
   </ul>
 </nav>
     </div>
@@ -205,25 +220,6 @@ ul.task-list li input[type="checkbox"] {
 <p>Somos la comunidad de R en Buenos Aires. Nuestro objetivo es construir un espacio inclusivo y activo que fomente la colaboración, el intercambio de conocimientos y la promoción del uso de R en diversas disciplinas.</p>
 <p>Creemos en el poder del trabajo colectivo, el aprendizaje mutuo y la importancia de crear un entorno respetuoso donde todas las voces sean bienvenidas.</p>
 <p>Si compartes nuestra pasión por R y la construcción de una comunidad abierta, no dudes en unirte a nosotros.</p>
-<section id="equipo-organizador" class="level1">
-<h1>Equipo Organizador</h1>
-<p>El corazón de R en Buenos Aires está en su comunidad, pero nada sería posible sin el esfuerzo y compromiso de quienes organizan y colaboran activamente para que cada evento y proyecto cobre vida.</p>
-<section id="andrea-gomez-vargas" class="level3 hex-card">
-<h3 class="anchored" data-anchor-id="andrea-gomez-vargas">Andrea Gomez Vargas</h3>
-<p><img src="https://avatars.githubusercontent.com/u/45582182?v=4.png" class="img-fluid" style="border-radius: 80%;;width:50.0%"></p>
-<p><a href="https://github.com/SoyAndrea"><strong>GitHub</strong></a></p>
-</section>
-<section id="ariana-bardauil" class="level3 hex-card">
-<h3 class="anchored" data-anchor-id="ariana-bardauil">Ariana Bardauil</h3>
-<p><img src="image/Ariana.jpeg" class="img-fluid" style="border-radius: 80%;;width:50.0%"></p>
-<p><a href="https://github.com/ariibard"><strong>GitHub</strong></a></p>
-</section>
-<section id="emanuel-ciardullo" class="level3 hex-card">
-<h3 class="anchored" data-anchor-id="emanuel-ciardullo">Emanuel Ciardullo</h3>
-<p><img src="https://avatars.githubusercontent.com/u/64991969?v=4.png" class="img-fluid" style="border-radius: 80%;;width:50.0%"></p>
-<p><a href="https://github.com/ECiardullo"><strong>GitHub</strong></a></p>
-</section>
-</section>
 <section id="misión" class="level1">
 <h1>Misión</h1>
 <p>Este grupo surge con la misión de conectar a quienes usan el lenguaje de programación R en la Ciudad de Buenos Aires, Argentina, independientemente de su grado de conocimiento y el ámbito de aplicación del mismo. Pretendemos promover el uso de R, apoyar el desarrollo de esta comunidad para compartir experiencias, promover el aprendizaje continuo y favorecer la creación de proyectos interdisciplinarios.</p>
@@ -243,16 +239,9 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Expandir la base de conocimientos para hacerla accesible en idioma español. Los datos y los análisis de datos son una forma de conocimiento.</p></li>
 <li><p>Contribuir activamente al desarrollo de herramientas de R como modo de aprendizaje y de participación en la comunidad global.</p></li>
 </ol>
-</section>
-<section id="hex" class="level1 hex-card">
-<h1>Hex</h1>
-<p>Inspirades en la esencia de Buenos Aires y en su capacidad de renovarse, incorporamos el fileteado a nuestro hex como un símbolo colorido de identidad, comunidad y conexión… y por qué no, también de nuestra comunidad dentro del grupo de usuarios de R.</p>
-<p>Elaborado por <strong>Norberto Cáseres</strong><br>
-<a href="https://www.instagram.com/estudiodefileteado"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="26" style="vertical-align: middle;"> @estudiodefileteado</a></p>
-<p><img src="image/hexbeto.png" class="img-fluid" width="600"></p>
-</section>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -306,13 +295,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

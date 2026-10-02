@@ -2,17 +2,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Actividades – R en Buenos Aires</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -37,10 +43,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-dfb324f25d9b1687192fa8be62ac8f9c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-172ba59bd5e0b52282274ba0c0cc16fc.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -55,7 +61,7 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "Sin resultados",
+    "search-no-results-text": "No se han encontrado resultados",
     "search-matching-documents-text": "documentos encontrados",
     "search-copy-link-title": "Copiar el enlace en la búsqueda",
     "search-hide-matches-text": "Ocultar resultados adicionales",
@@ -82,7 +88,8 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./image/BA-1.png" alt="" class="navbar-logo">
+    <img src="./image/BA-1.png" alt="" class="navbar-logo light-content">
+    <img src="./image/BA-1.png" alt="" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">R en Buenos Aires</span>
@@ -93,6 +100,18 @@ ul.task-list li input[type="checkbox"] {
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/company/r-en-buenos-aires/"> <i class="bi bi-linkedin" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/renbaires"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="./index.html"> 
@@ -102,14 +121,25 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link active" href="./actividades.html" aria-current="page"> 
 <span class="menu-text">Actividades</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./quienes-somos.html"> 
-<span class="menu-text">Quiénes Somos</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-quiénes-somos" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Quiénes Somos</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-quiénes-somos">    
+        <li>
+    <a class="dropdown-item" href="./quienes-somos.html">
+ <span class="dropdown-text">Sobre la Comunidad</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./coc.html"> 
-<span class="menu-text">Código de Conducta</span></a>
+        <li>
+    <a class="dropdown-item" href="./equipo.html">
+ <span class="dropdown-text">Equipo organizador</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./hex.html">
+ <span class="dropdown-text">Nuestro Hex</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-nuestra-red" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Nuestra Red</span>
@@ -129,6 +159,10 @@ ul.task-list li input[type="checkbox"] {
   </li>  
     </ul>
   </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./coc.html"> 
+<span class="menu-text">Código de Conducta</span></a>
+  </li>  
   <li class="nav-item">
     <a class="nav-link" href="./blog.html"> 
 <span class="menu-text">Blog</span></a>
@@ -184,6 +218,18 @@ ul.task-list li input[type="checkbox"] {
 </thead>
 <tbody>
 <tr class="odd">
+<td>2026-09-26</td>
+<td>Nerdearla - lightning talk</td>
+<td>CCKonex</td>
+<td>Presentación</td>
+</tr>
+<tr class="even">
+<td>2026-08-29</td>
+<td>Segundo Encuentro de Comunidades Informáticas</td>
+<td>UMET</td>
+<td><a href="https://informaticos.ar/segundo-encuentro-de-comunidades-informaticas/">Nota de prensa</a></td>
+</tr>
+<tr class="odd">
 <td>2026-03-19</td>
 <td>Armá tu CV en Positron</td>
 <td>virtual</td>
@@ -191,7 +237,7 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr class="even">
 <td>2026-03-18</td>
-<td>Encuentro de Comunidades Informáticas</td>
+<td>Primer Encuentro de Comunidades Informáticas</td>
 <td>UMET</td>
 <td><a href="https://informaticos.ar/encuentro-de-comunidades-informaticas/">Nota de prensa</a></td>
 </tr>
@@ -385,13 +431,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

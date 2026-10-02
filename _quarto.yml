@@ -27,10 +27,14 @@ website:
         text: Bienvenida
       - href: actividades.qmd
         text: "Actividades"
-      - href: quienes-somos.qmd
-        text: "Quiénes Somos"
-      - href: coc.qmd
-        text: "Código de Conducta"
+      - text: Quiénes Somos
+        menu:
+        - href: quienes-somos.qmd
+          text: "Sobre la Comunidad"
+        - href: equipo.qmd
+          text: "Equipo organizador"
+        - href: hex.qmd
+          text: "Nuestro Hex" 
       - text: "Nuestra Red"
         menu: 
           - href: comunidades.qmd
@@ -39,6 +43,8 @@ website:
             text: "Posit"
           - href: r-consortium.qmd
             text: "R consortium"
+      - href: coc.qmd
+        text: "Código de Conducta"
       - text: "Blog"
         href: blog.qmd
         

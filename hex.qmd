@@ -1,0 +1,16 @@
+---
+title: "Nuestro hex"
+format:
+  html:
+    css: titulo.css
+---
+
+
+Inspirades en la esencia de Buenos Aires y en su capacidad de renovarse, incorporamos el fileteado a nuestro hex como un símbolo colorido de identidad, comunidad y conexión... y por qué no, también de nuestra comunidad dentro del grupo de usuarios de R.
+
+::: hex-card
+Elaborado por **Norberto Cáseres**\
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="26" style="vertical-align: middle;"/> \@estudiodefileteado](https://www.instagram.com/estudiodefileteado)
+
+![](image/hexbeto.png){width="800px"}
+:::

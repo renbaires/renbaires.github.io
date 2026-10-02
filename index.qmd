@@ -9,20 +9,20 @@ about:
       text: Github
       href: https://github.com/renbaires
     - icon: slack
-      text: Sumate a nuestro canal de slack 
+      text: Canal de Slack 
       href: https://join.slack.com/t/r-buenosaires/shared_invite/zt-39hdkpq76-5dL_lHyzUQSqjr17tRMGCQ
+    - icon: whatsapp
+      text: Canal de WhatsApp
+      href: https://whatsapp.com/channel/0029VbAkdqp4SpkANhtjMP0q
+    - icon: instagram
+      text: instagram
+      href: https://www.instagram.com/renbuenosaires
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/company/r-en-buenos-aires/
     - icon: youtube
       href: https://www.youtube.com/@renbaires 
-      text: Canal de You Tube
-    - icon: twitter-x
-      text: X 
-      href: https://x.com/renbaires
-    - icon: instagram
-      text: instagram
-      href: https://www.instagram.com/renbuenosaires
+      text: Canal de YouTube
 format:
   html:
     toc: FALSE 

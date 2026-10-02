@@ -77,6 +77,17 @@ Espacios con los que compartimos afinidad, intereses y actividades. Nos apoyamos
 
 ::::: columns
 ::: {.column width="50%"}
+[🔗 RSE Argentina](https://github.com/rse-argentina)
+
+![RSE Argentina](https://rse-argentina.github.io/image/rse_arg.png){width="60%"}
+:::
+
+::: {.column width="50%"}
+:::
+:::::
+
+::::: columns
+::: {.column width="50%"}
 [🔗 R-Ladies Buenos Aires](https://github.com/RLadies-BA)
 
 ![R-Ladies Buenos Aires](https://avatars.githubusercontent.com/u/38664570?s=200&v=4){width="60%"}

@@ -14,33 +14,6 @@ Creemos en el poder del trabajo colectivo, el aprendizaje mutuo y la importancia
 
 Si compartes nuestra pasión por R y la construcción de una comunidad abierta, no dudes en unirte a nosotros.
 
-# Equipo Organizador
-
-El corazón de R en Buenos Aires está en su comunidad, pero nada sería posible sin el esfuerzo y compromiso de quienes organizan y colaboran activamente para que cada evento y proyecto cobre vida.
-
-::: hex-card
-### Andrea Gomez Vargas
-
-![](https://avatars.githubusercontent.com/u/45582182?v=4){width="50%" style="border-radius: 80%;"}
-
-[**GitHub**](https://github.com/SoyAndrea)
-:::
-
-::: hex-card
-### Ariana Bardauil
-
-![](image/Ariana.jpeg){width="50%" style="border-radius: 80%;"}
-
-[**GitHub**](https://github.com/ariibard)
-:::
-
-::: hex-card
-### Emanuel Ciardullo
-
-![](https://avatars.githubusercontent.com/u/64991969?v=4){width="50%" style="border-radius: 80%;"}
-
-[**GitHub**](https://github.com/ECiardullo)
-:::
 
 # Misión
 
@@ -66,13 +39,4 @@ Creamos esta comunidad con el ideal de brindar un espacio social activo e inclus
 
 7.  Contribuir activamente al desarrollo de herramientas de R como modo de aprendizaje y de participación en la comunidad global.
 
-::: hex-card
-# Hex
 
-Inspirades en la esencia de Buenos Aires y en su capacidad de renovarse, incorporamos el fileteado a nuestro hex como un símbolo colorido de identidad, comunidad y conexión... y por qué no, también de nuestra comunidad dentro del grupo de usuarios de R.
-
-Elaborado por **Norberto Cáseres**\
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="26" style="vertical-align: middle;"/> \@estudiodefileteado](https://www.instagram.com/estudiodefileteado)
-
-![](image/hexbeto.png){width="600px"}
-:::
