@@ -70,7 +70,7 @@ Espacios con los que compartimos afinidad, intereses y actividades. Nos apoyamos
 ::: {.column width="50%"}
 [🔗 RSE Argentina](https://rse-argentina.github.io/)
 
-![RSE Argentina](image/rse_arg.png){width="60%"}
+![RSE Argentina](image/rse_arg.png){width="50%"}
 :::
 
 ::: {.column width="50%"}
