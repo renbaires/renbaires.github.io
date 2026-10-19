@@ -1,6 +1,6 @@
 ---
 title: "R en Buenos Aires"
-subtitle: "Grupo de usuaries de R"
+subtitle: Grupo local de usuaries de R
 about:
   template: jolla
   image: image/BA-1.png
@@ -9,24 +9,34 @@ about:
       text: Github
       href: https://github.com/renbaires
     - icon: slack
-      text: Sumate a nuestro canal de slack 
+      text: Canal de Slack 
       href: https://join.slack.com/t/r-buenosaires/shared_invite/zt-39hdkpq76-5dL_lHyzUQSqjr17tRMGCQ
+    - icon: whatsapp
+      text: Canal de WhatsApp
+      href: https://whatsapp.com/channel/0029VbAkdqp4SpkANhtjMP0q
+    - icon: instagram
+      text: instagram
+      href: https://www.instagram.com/renbuenosaires
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/company/r-en-buenos-aires/
     - icon: youtube
       href: https://www.youtube.com/@renbaires 
-      text: Canal de youtube
-    - icon: twitter-x
-      href: https://x.com/renbaires
-    - icon: instagram
-      href: https://www.instagram.com/renbuenosaires?igsh=Y3gwMnB3YmozeXl3
-    - icon: r-project
-      text: R User Group
-      href: https://www.meetup.com/pro/r-user-groups/
+      text: Canal de YouTube
 format:
   html:
     toc: FALSE 
     css: titulo.css
 ---
 
+### **Con el apoyo de**
+
+::::: columns
+::: {.column width="50%"}
+[![](image/posit.png){width="50%"}](posit.qmd)
+:::
+
+::: {.column width="50%"}
+[![](image/r-consortium.png){width="60%"}](r-consortium.qmd)
+:::
+:::::

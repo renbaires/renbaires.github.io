@@ -1,5 +1,5 @@
 ---
-title: "Nuestra Red"
+title: "Comunidadeds y alianzas"
 format:
   html:
     css: titulo.css
@@ -80,7 +80,6 @@ Espacios con los que compartimos afinidad, intereses y actividades. Nos apoyamos
 
 
 
-
 ::::: columns
 ::: {.column width="50%"}
 [🔗 R-Ladies Buenos Aires](https://github.com/RLadies-BA)
@@ -127,6 +126,11 @@ Conferencias con las que colaboramos a través de charlas cortas, talleres o com
 ::: {.column width="50%"}
 :::
 :::::
+
+
+
+
+<br>
 
 ## Instituciones que nos acompañan
 

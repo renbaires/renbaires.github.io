@@ -19,15 +19,16 @@ h1.title,
   font-size: 3rem !important;
 }
 
+
 .hex-card {
   background: linear-gradient(135deg, #ffffff, #fdf1f4);
-  border-radius: 20px;
-  padding: 25px;
-  margin: 30px 0;
-  max-width: 500px;
+  border-radius: 6px;          /* antes 20px: esquinas casi rectas */
+  padding: 20px 40px;          /* menos arriba/abajo, más a los costados */
+  margin: 30px auto;           /* auto la centra en la página */
+  max-width: 800px;            /* más ancha */
   text-align: center;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  border: 2px solid #CD5C74; /* usa el rosa que pasaste */
+  border: 2px solid #CD5C74;
 }
 
 .hex-card p {
@@ -48,3 +49,79 @@ h1.title,
 }
 
 
+/* prueba */ 
+
+/* Links principales */
+.navbar-nav .nav-link {
+  color: #604ec2 !important;
+}
+
+/* Hover navbar */
+.navbar-nav .nav-link:hover {
+  color: #4d3db2 !important;
+}
+
+/* Menú abierto / activo */
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+  color: #604ec2 !important;
+  font-weight: 600;
+}
+
+/* Dropdown */
+.dropdown-item {
+  color: #604ec2 !important;
+}
+
+/* Hover oscuro */
+.dropdown-item:hover,
+.dropdown-item:focus {
+  color: #ffffff !important;
+  background-color: #604ec2 !important;
+}
+
+/* Activo */
+.dropdown-item.active {
+  color: #ffffff !important;
+  background-color: #4d3db2 !important;
+  font-weight: 600;
+}
+
+.hex-equipo {
+  text-align: center;
+  background: linear-gradient(135deg, #ffffff, #fdf1f4);
+  border: 2px solid #CD5C74;
+  border-radius: 10px;
+  padding: 18px 14px;
+  margin: 10px 0;
+  height: 100%;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  scroll-margin-top: 90px;
+}
+
+.hex-equipo:target {
+  border-color: #a8324f;
+  box-shadow: 0 0 0 4px rgba(205, 92, 116, 0.25);
+}
+
+.hex-equipo img {
+  width: 140px !important;
+  height: 140px !important;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 12px;
+}
+
+.hex-equipo p {
+  margin: 0;
+}
+
+.hex-equipo h3 {
+  font-size: 1.1rem;
+  margin: 0 0 6px 0;
+}
+
+.hex-equipo .bi {
+  margin-right: 4px;
+}
