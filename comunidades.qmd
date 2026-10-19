@@ -11,6 +11,92 @@ Muchas universidades y organizaciones nos prestan aulas y espacios para realizar
 
 Así seguimos construyendo una comunidad activa, abierta y con ganas de seguir creciendo compartiendo lo que sabemos.
 
+
+
+## Organizaciones aliadas
+
+Proyectos, colectivos y grupos que colaboran con iniciativas concretas, difusión, recursos técnicos o actividades conjuntas. Su participación potencia el crecimiento de la comunidad y amplifica nuestro alcance.
+
+
+::::: columns
+::: {.column width="100%"}
+[🔗 Comunidades Informáticas de Argentina - Foro del Conocimiento (FoCo)](https://informaticos.ar/encuentro-de-comunidades-informaticas/)
+
+![FOCO](image/foco.png){width="80%"}
+:::
+
+:::::
+
+
+
+
+
+::::: columns
+::: {.column width="50%"}
+[🔗 rOpenSci](https://ropensci.org/)
+
+![rOpenSci](image/ropensci.png){width="80%"}
+:::
+
+::: {.column width="50%"}
+[🔗 Estación R](https://estacion-r.com/)
+
+![Estación R](image/estacionr.png){width="100%"}
+
+:::
+:::::
+
+::::: columns
+::: {.column width="50%"}
+[🔗 Nucleo de Innovación Social - NIS](https://nucleodeinnovacionsocial.com.ar/)
+
+![Nucleo de Innovación Social - NIS](image/NIShex.png){width="40%"}
+:::
+
+::: {.column width="50%"}
+[🔗 MetaDocencia](https://metadocencia.org/)
+
+<br>
+
+![MetaDocencia](image/metadocencia.png){width="80%"}
+:::
+:::::
+
+## Comunidades amigas
+
+Espacios con los que compartimos afinidad, intereses y actividades. Nos apoyamos mutuamente, coorganizamos eventos y aprendemos colectivavmente.
+
+::::: columns
+::: {.column width="50%"}
+[🔗 RSE Argentina](https://rse-argentina.github.io/)
+
+![RSE Argentina](image/rse_arg.png){width="60%"}
+:::
+
+::: {.column width="50%"}
+
+:::
+:::::
+
+
+
+
+::::: columns
+::: {.column width="50%"}
+[🔗 R-Ladies Buenos Aires](https://github.com/RLadies-BA)
+
+![R-Ladies Buenos Aires](https://avatars.githubusercontent.com/u/38664570?s=200&v=4){width="60%"}
+:::
+
+::: {.column width="50%"}
+[🔗 R-Ladies Santa Rosa](https://www.meetup.com/rladies-santa-rosa/A)
+
+![R-Ladies Santa Rosa](image/rladies.png){width="50%"}
+:::
+:::::
+
+<br>
+
 ## Conferencias Aliadas
 
 Conferencias con las que colaboramos a través de charlas cortas, talleres o como community partners para difundir sus actividades. Estos vínculos fortalecen el intercambio y el trabajo conjunto entre comunidades.
@@ -41,55 +127,6 @@ Conferencias con las que colaboramos a través de charlas cortas, talleres o com
 ::: {.column width="50%"}
 :::
 :::::
-
-## Organizaciones aliadas
-
-Proyectos, colectivos y grupos que colaboran con iniciativas concretas, difusión, recursos técnicos o actividades conjuntas. Su participación potencia el crecimiento de la comunidad y amplifica nuestro alcance.
-
-::::: columns
-::: {.column width="50%"}
-[🔗 rOpenSci](https://ropensci.org/)
-
-![rOpenSci](image/ropensci.png){width="80%"}
-:::
-
-::: {.column width="50%"}
-:::
-:::::
-
-::::: columns
-::: {.column width="50%"}
-[🔗 Nucleo de Innovación Social - NIS](https://nucleodeinnovacionsocial.com.ar/)
-
-![Nucleo de Innovación Social - NIS](image/NIShex.png){width="40%"}
-:::
-
-::: {.column width="50%"}
-[🔗 Estación R](https://estacion-r.com/)
-
-![Estación R](image/estacionr.png){width="100%"}
-:::
-:::::
-
-## Comunidades amigas
-
-Espacios con los que compartimos afinidad, intereses y actividades. Nos apoyamos mutuamente, coorganizamos eventos y aprendemos colectivavmente.
-
-::::: columns
-::: {.column width="50%"}
-[🔗 R-Ladies Buenos Aires](https://github.com/RLadies-BA)
-
-![R-Ladies Buenos Aires](https://avatars.githubusercontent.com/u/38664570?s=200&v=4){width="60%"}
-:::
-
-::: {.column width="50%"}
-[🔗 R-Ladies Santa Rosa](https://www.meetup.com/rladies-santa-rosa/A)
-
-![R-Ladies Santa Rosa](image/rladies.png){width="50%"}
-:::
-:::::
-
-<br>
 
 ## Instituciones que nos acompañan
 
